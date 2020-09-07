@@ -1,0 +1,2915 @@
+[
+    {
+        "month": "Jan",
+        "day": 1,
+        "quote": "Each day one needs to speak kind and gentle words. each day one needs to do what is beneficial.",
+        "chinese": "每天，您都需要讲友好的话。每天都需要做有益的事情。",
+        "traditional": "每天，您都需要講友好的話。每天都需要做有益的事情。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 2,
+        "quote": "In doing all good deeds, I begin by myself. In rectifying all misdeeds, I begin by myself.",
+        "chinese": "在做所有善事时，我一个人开始。在纠正所有不良行为时，我一个人开始。",
+        "traditional": "在做所有善事時，我一個人開始。在糾正所有不良行為時，我一個人開始。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 3,
+        "quote": "Time is given in the unit of seconds. Thus use it second by second; A book is written in words. Thus read it word by word.",
+        "chinese": "时间以秒为单位。因此每秒使用它；书是用文字写的。从而逐字阅读。",
+        "traditional": "時間以秒為單位。因此每秒使用它；書是用文字寫的。從而逐字閱讀。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 4,
+        "quote": "Nothing on Earth is born od a one time effort. Everything on Earth is impermanent, Continued effort and creativity lead to improvements.",
+        "chinese": "一次努力，世上没有任何东西是诞生的。地球上的一切都是无常的，不断的努力和创造才能带来进步。",
+        "traditional": "一次努力，世上沒有任何東西是誕生的。地球上的一切都是無常的，不斷的努力和創造才能帶來進步。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 5,
+        "quote": "Overcome a problem, and an opportunity arises. Recognize a good opportunity, and success is ensured.",
+        "chinese": "克服问题，机会就来了。把握好机会，确保成功。",
+        "traditional": "克服問題，機會就來了。把握好機會，確保成功。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 6,
+        "quote": "A goal is achieved when the job is accomplished. Buddhahood is attained when a human has perfected all virtues.",
+        "chinese": "完成工作后就可以实现目标。当人类完善了所有的美德时，就可获得佛性。",
+        "traditional": "完成工作後就可以實現目標。當人類完善了所有的美德時，就可獲得佛性。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 7,
+        "quote": "The secret of success lies in the determination to attain the goal. The key to success lies in completely understanding the necessary conditions.",
+        "chinese": "成功的秘诀在于实现目标的决心。成功的关键在于完全了解必要条件。",
+        "traditional": "成功的秘訣在於實現目標的決心。成功的關鍵在於完全了解必要條件。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 8,
+        "quote": "By enduring countless trials, we fulfill ourselves. By embracing responsibilities, we resolve conflicts.",
+        "chinese": "通过无数的考验，我们实现了自己。通过承担责任，我们解决了冲突。",
+        "traditional": "通過無數的考驗，我們實現了自己。通過承擔責任，我們解決了衝突。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 9,
+        "quote": "We give fulfillment to others by our service. We fulfill ourselves through earnest work.",
+        "chinese": "我们通过我们的服务使他人满意。我们通过认真的工作来实现自己。",
+        "traditional": "我們通過我們的服務使他人滿意。我們通過認真的工作來實現自己。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 10,
+        "quote": "A bouquet of flowers is incomparable to a smile. A glass of clean water is incomparable to a clear thought. A piece of music is incomparable to a kind word. A poem is incomparable to a word of praise.",
+        "chinese": "一束鲜花无比微笑。一杯清水无比清晰的想法。音乐是无与伦比的。一首诗是赞美词无法比拟的。",
+        "traditional": "一束鮮花無比微笑。一杯清水無比清晰的想法。音樂是無與倫比的。一首詩是讚美詞無法比擬的。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 11,
+        "quote": "Propagate culture with an international perspective. Live a humane life. Be kind and compassionate to all beings. Discern good and evil with right understanding.",
+        "chinese": "以国际视野传播文化。过着人道的生活。对所有众生仁慈和富有同情心。通过正确的认识分辨善恶。",
+        "traditional": "以國際視野傳播文化。過著人道的生活。對所有眾生仁慈和富有同情心。通過正確的認識分辨善惡。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 12,
+        "quote": "Confidence, like fine jewelry, beautifies our body and mind. Confidence, like a walking stick, helps is to move forward fearlessly.",
+        "chinese": "信心就像精美的珠宝一样，可以美化我们的身心。信心就像手杖一样，有助于无畏地前进。",
+        "traditional": "信心就像精美的珠寶一樣，可以美化我們的身心。信心就像手杖一樣，有助於無畏地前進。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 13,
+        "quote": "Rather than worrying about poverty or loneliness, cultivate merit and wisdom. Instead of being concerned about lack of clothing or food, cultivate the mind.",
+        "chinese": "与其担心贫穷或孤独，不如培养功德和智慧。不用担心缺少衣服或食物，要培养思想。",
+        "traditional": "與其擔心貧窮或孤獨，不如培養功德和智慧。不用擔心缺少衣服或食物，要培養思想。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 14,
+        "quote": "As long as the root is not rotten, a plant can blossom in wasteland. As long as we persevere, we can revive a hopeless situation.",
+        "chinese": "只要根不腐烂，植物就可以在荒地上开花。只要我们坚持不懈，我们就能恢复无望的局面。",
+        "traditional": "只要根不腐爛，植物就可以在荒地上開花。只要我們堅持不懈，我們就能恢復無望的局面。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 15,
+        "quote": "Enduring hardship is the foundation for success. Being resolved and in contemplation is the sublimation of life.",
+        "chinese": "艰辛是成功的基础。决心和沉思是生活的升华。",
+        "traditional": "艱辛是成功的基礎。決心和沈思是生活的昇華。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 16,
+        "quote": "Achievement is due to persistence. Success is due to an ernest will.",
+        "chinese": "成就归因于坚持不懈。成功是出于真诚的意志。",
+        "traditional": "成就歸因於堅持不懈。成功是出於真誠的意志。",
+        "type": "Encouragement" 
+    },
+
+    {
+        "month": "Jan",
+        "day": 17,
+        "quote": "Conquering others requires one's strength. Conquering self requires one's wisdom.",
+        "chinese": "征服他人需要一个人的力量。征服自我需要一个人的智慧。",
+        "traditional": "征服他人需要一個人的力量。征服自我需要一個人的智慧。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 18,
+        "quote": "May we enrich ourselves with knowledge, adorning ourselves with kind conduct. May we share the Dharma for the benefit of others and influence many by our virtuous conduct.",
+        "chinese": "愿我们以知识丰富自己，以仁慈的行为来装饰自己。愿我们分享佛法以造福他人，并通过我们的品行行事影响许多人。",
+        "traditional": "願我們以知識豐富自己，以仁慈的行為來裝飾自己。願我們分享佛法以造福他人，並通過我們的品行行事影響許多人。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 19,
+        "quote": "Set a role model for the world, and you will be a virtuous person for generations to come.",
+        "chinese": "为世界树立榜样，您将成为子孙后代的贤惠之人。",
+        "traditional": "為世界樹立榜樣，您將成為子孫後代的賢惠之人。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 20,
+        "quote": "The pessimist sees life as a glass of bitter wine whereas the optimist sees it as a glass of champagne. Kind people see life as a glass of clear water while righteous people see it as a glass of nectar.",
+        "chinese": "悲观主义者将生活视为一杯苦酒，而乐观主义者则将其视为一杯香槟。善良的人们将生命视为一杯清澈的水，正义的人们将生命视为一杯花蜜。",
+        "traditional": "悲觀主義者將生活視為一杯苦酒，而樂觀主義者則將其視為一杯香檳。善良的人們將生命視為一杯清澈的水，正義的人們將生命視為一杯花蜜。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 21,
+        "quote": "The first step of seeking innovation is not to reject tradition but to understand tradition. The first step of seeking change is not to rebel externally but to transform internally.",
+        "chinese": "寻求创新的第一步不是拒绝传统，而是了解传统。寻求变革的第一步不是在外部反叛，而是在内部进行变革。",
+        "traditional": "尋求創新的第一步不是拒絕傳統，而是了解傳統。尋求變革的第一步不是在外部反叛，而是在內部進行變革。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 22,
+        "quote": "As humans, we need to be like a ball, the harder we are hit, the higher we bounce. As humans, our mind need to be like dough, the more we are pressed, the tougher we become.",
+        "chinese": "作为人类，我们需要像球一样，被击的越重，弹跳的力就越高。作为人类，我们的思维必须像面团一样，我们受到的压力越大，我们就越坚强。",
+        "traditional": "作為人類，我們需要像球一樣，被擊打的次數越多，跳動的彈跳就越高。作為人類，我們的思維必須像麵團一樣，我們受到的壓力越大，我們就越堅強。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 23,
+        "quote": "A mind free from attachment is not hindered by vexation. A durable body is not hindered by the environment.",
+        "chinese": "摆脱依恋的思想不会因烦恼而受到阻碍。坚固的机身不受环境的影响。",
+        "traditional": "擺脫依戀的思想不會因煩惱而受到阻礙。堅固的機身不受環境的影響。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 24,
+        "quote": "Adversity trains determination. Poverty accomplishes strength of character. Confidence motivates towards the goal. Ambition is the compass of life.",
+        "chinese": "逆境训练决心。贫穷成就了品格的力量。信心会激励您实现目标。野心是生活的指南针。",
+        "traditional": "逆境訓練決心。貧窮成就了品格的力量。信心會激勵您實現目標。野心是生活的指南針。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 25,
+        "quote": "An easy life may lead to loss of self. Therfore, understanding responsibility is the foundation to character. Adversity is a test of faith. Therefore diligence is the foundation of industriousness in daily affairs.",
+        "chinese": "简单的生活可能会导致自我丧失。因此，理解责任是品格的基础。逆境是对信仰的考验。因此，勤奋是勤奋工作的基础。",
+        "traditional": "簡單的生活可能會導致自我喪失。因此，了解責任是品格的基礎。逆境是對信仰的考驗。因此，勤奮是勤奮工作的基礎。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 26,
+        "quote": "Birth is the effect of our past lives; we need to elevate it. Old age is the principle of impermanence; we have to accept it. Sickness is the natural course of life; we have to bear with it. Death is the transformed process of senses; we have to face it.",
+        "chinese": "出生是我们前世的影响；我们需要提升它。老年是无常的原则；我们必须接受它。疾病是自然的生活过程。我们必须忍受。死亡是感官的转变过程。我们必须面对它。",
+        "traditional": "出生是我們前世的影響；我們需要提升它。老年是無常的原則；我們必須接受它。疾病是自然的生活過程。我們必須忍受。死亡是感官的轉變過程。我們必鬚麵對它。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 27,
+        "quote": "Every moment is dawn; every challenge is an opportunity. Every obstacle is a test; every kind act is an innovation.",
+        "chinese": "每一刻都是黎明；每个挑战都是机遇。每个障碍都是考验；每一种行为都是一种创新。",
+        "traditional": "每一刻都是黎明；每個挑戰都是機遇。每個障礙都是考驗；每一種行為都是一種創新。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 29,
+        "quote": "Gain experience out of grievance. Accept challenges presented by difficulties. Accumulate wisdom earned from failure. Strengthen willpower cultivated from obstacles.",
+        "chinese": "从不满中获得经验。接受困难带来的挑战。积累从失败中获得的智慧。增强从障碍中培养出来的意志力。",
+        "traditional": "從不滿中獲得經驗。接受困難帶來的挑戰。積累從失敗中獲得的智慧。增強從障礙中培養出來的意志力。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 29,
+        "quote": "Overcoming adversity, one increases capacity. Standing the tests, one can take on great responsibility.",
+        "chinese": "克服逆境，可以增加能力。经受住考验，人们可以承担巨大的责任。",
+        "traditional": "克服逆境，可以增加能力。經受住考驗，人們可以承擔巨大的責任。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 30,
+        "quote": "Hope of success is availed by the courage to face failure. Earnest work reaps a fruitful harvest.",
+        "chinese": "面对失败的勇气给成功带来了希望。认真工作取得丰硕成果。",
+        "traditional": "面對失敗的勇氣給成功帶來了希望。認真工作取得豐碩成果。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Jan",
+        "day": 31,
+        "quote": "Nothing is impossible if we embrace it wholeheartedly with determination. No mistake is beyond fixing if we face it wholeheartedly with determination.",
+        "chinese": "如果我们全心全意地拥抱它，那是不可能的。如果我们全心全意地面对它，那就没有错。",
+        "traditional": "如果我們全心全意地擁抱它，那是不可能的。如果我們全心全意地面對它，沒有任何錯誤可以解決。",
+        "type": "Encouragement" 
+    },
+    {
+        "month": "Feb",
+        "day": 1,
+        "quote": "A loser is one whose passion lasts only five minutes. The winner is one whose passion lasts through the final five minutes.",
+        "chinese": "失败者是一个激情只持续五分钟的人。胜利者是他的激情持续到最后五分钟的人。",
+        "traditional": "失敗者是一個激情只持續五分鐘的人。勝利者是他的激情持續到最後五分鐘的人。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 2,
+        "quote": "To reap the fortune in this world, we need the hands of confidence. To cross the vast wide ocean, we need the boat of confidence. The fruit of enlightenment grows from the root of confidence. The door leading to the precious dharma world opends with confidence.",
+        "chinese": "为了在这个世界上获得财富，我们需要信心。为了穿越广阔的海洋，我们需要信心之舟。启蒙的果实源于信心的根源。通向珍贵佛法世界的大门充满信心地打开了。",
+        "traditional": "為了在這個世界上獲得財富，我們需要信心。為了穿越廣闊的海洋，我們需要信心之舟。啟蒙的果實源於信心的根源。通向珍貴佛法世界的大門充滿信心地打開了。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 3,
+        "quote": "Giving others confidence, giving others joy, givong others hope, giving others convenience: giving, is of inifinite magical effect. Knowing all-encompassing, knowing peace, knowing modesty, knowing respect: knowing is of linitless intelligence.",
+        "chinese": "给别人信心，给别人快乐，给别人希望，给别人便利：给人带来无限的神奇效果。知道无所不包，了解和平，懂得谦虚，懂得尊重：知道是无情的。",
+        "traditional": "給別人信心，給別人快樂，給別人希望，給別人便利：給人帶來無限的神奇效果。知道無所不包，了解和平，懂得謙虛，懂得尊重：知道是無情的。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 4,
+        "quote": "The value of life lies in realising the selfless self. The meaning of life lies in serving the public.",
+        "chinese": "生命的价值在于实现无私的自我。生命的意义在于为公众服务。",
+        "traditional": "生命的價值在於實現無私的自我。生命的意義在於為公眾服務。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 5,
+        "quote": "A mouthful of gentle words. A handful of good deeds. A smiling face. A heart full of happiness.",
+        "chinese": "一口温柔的话。一些善行。一张笑脸。一颗充满幸福的心。",
+        "traditional": "一口溫柔的話。少數善舉。一張笑臉。一顆充滿幸福的心。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 6,
+        "quote": "Working earnestly and passionately is wealth and kind act. Laziness and idleness is poverty and an unwholesome act.",
+        "chinese": "认真而热情地工作是财富和善举。懒惰和懒惰是贫穷，是不道德的行为。",
+        "traditional": "認真而熱情地工作是財富和善舉。懶惰和懶惰是貧窮，是不道德的行為。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 7,
+        "quote": "Causes and conditions are vital for achievement. The Buddha nature is like a mirror which reflects clearly when it is dustless. The mind is like a paddy field which produces when it is fertilized. Generosity is like seeds which yeild good harvest when widely sown.",
+        "chinese": "原因和条件对于成就至关重要。佛陀的性质就像一面镜子，无尘时清晰可见。心灵就像受精时产生的稻田。慷慨大方就像种子，广泛播种时收成很好。",
+        "traditional": "原因和條件對於成就至關重要。佛陀的性質就像一面鏡子，無塵時清晰可見。心靈就像受精時產生的稻田。慷慨大方就像種子，廣泛播種時收成很好。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 8,
+        "quote": "To be hopeless about our own future is the most pathetic thing in life. To have no plan in our vocation is the worst habit in life.",
+        "chinese": "对我们自己的未来抱有绝望是人生中最可悲的事情。在我们的职业中没有计划是生活中最糟糕的习惯。",
+        "traditional": "對我們自己的未來抱有絕望是人生中最可悲的事情。在我們的職業中沒有計劃是生活中最糟糕的習慣。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 9,
+        "quote": "If we can do more good deeds in our daily lives, then there is no fear left when near death. If we can contribute ourselves to society in our daily lives, then we live on even when we are dead.",
+        "chinese": "如果我们在日常生活中能做更多的善事，那么临近死亡时就不会有恐惧。如果我们能在日常生活中为社会做出自己的贡献，那么即使我们死了，我们也能继续生存下去。",
+        "traditional": "如果我們在日常生活中能做更多的善事，那麼臨近死亡時就不會有恐懼。如果我們能在日常生活中為社會做出自己的貢獻，那麼即使我們已經死了，我們也能繼續生存下去。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 10,
+        "quote": "We have to cherish our property without carelessness. We have to do our best in all things without regrets.",
+        "chinese": "我们必须不加粗心地珍惜我们的财产。我们必须在所有事情上都做到最好，不要后悔。",
+        "traditional": "我們必須不加粗心地珍惜我們的財產。我們必須在所有事情上都做到最好，不要後悔。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 11,
+        "quote": "Self-discovery arises after self-awareness. Self-confidence arises after self-discovery. Self-empowerment arises after self-confidence. Self-independence arises after self-empowerment.",
+        "chinese": "自我发现是在自我意识之后产生的。自我发现后就会产生自信心。自信心产生于自信之后。自我授权后会出现自我独立。",
+        "traditional": "自我發現是在自我意識之後產生的。自我發現後就會產生自信心。自信心產生於自信之後。自我授權後會出現自我獨立。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 12,
+        "quote": "How forgiving you are defines the success of your business. How loving you are defines how many achievements you have made.",
+        "chinese": "如何宽容您是您业务成功的关键。您的爱心程度决定了您取得了多少成就。",
+        "traditional": "如何寬容您是您業務成功的關鍵。您的愛心程度決定了您取得了多少成就。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 13,
+        "quote": "Do not create your appearance with money; wisdom signifies everything. Do not ornament yourself excessively; a compassionate mind beautifies the body and mind.",
+        "chinese": "不要用金钱来创造自己的外表；智慧代表一切。不要过度装饰自己；富有同情心的心灵美化了身心。",
+        "traditional": "不要用金錢創造外表；智慧代表一切。不要過度裝飾自己；富有同情心的心靈美化了身心。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 14,
+        "quote": "Real wealth is happiness, not fortune. Real poverty is ignorance, not being penniless.",
+        "chinese": "真正的财富是幸福，而不是财富。真正的贫穷是无知，不是一文不值。",
+        "traditional": "真正的財富是幸福，而不是財富。真正的貧窮是無知，不是一文不值。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 15,
+        "quote": "All things have advantages and disadvantages. If we know how to deal with them and focus on the right point, even rotten wood and stone can be used as medicine. Everyone has strength and weakness, if we can utilize them appropriately and fully, even the broken iron and copper can be refined into steel.",
+        "chinese": "万物都有优点和缺点。如果我们知道如何对付它们并专注于正确的点，那么即使烂木头和石头也可以用作药物。每个人都有长处和短处，如果我们能够适当和充分地利用它们，甚至破碎的铁和铜也可以提炼成钢。",
+        "traditional": "萬物都有優點和缺點。如果我們知道如何對付它們並專注於正確的點，那麼即使爛木頭和石頭也可以用作藥物。每個人都有長處和短處，如果我們能夠適當和充分地利用它們，即使破碎的鐵和銅也可以提煉成鋼。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 16,
+        "quote": "A useful person is the one who gives benefit to others. A precious thing is something that gives value to our daily life and is not wasted.",
+        "chinese": "有用的人是使他人受益的人。一件珍贵的东西可以为我们的日常生活带来价值，并且不会被浪费。",
+        "traditional": "有用的人是使他人受益的人。一件珍貴的東西可以為我們的日常生活帶來價值，而不是浪費。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 17,
+        "quote": "We can repair broken things but we cannot fix a broken friendship. So we must cherish and treasure friendship. We can always earn back the money that we have lost, but we cannot turn back the time. So we mist cherish and treasure time.",
+        "chinese": "我们可以修复破碎的东西，但不能修复破碎的友谊。因此，我们必须珍惜和珍惜友谊。我们总是可以赚回损失的钱，但是我们不能倒回时间。因此，我们会珍惜并珍惜时间。",
+        "traditional": "我們可以修復破碎的東西，但不能修復破碎的友誼。因此，我們必須珍惜和珍惜友誼。我們總是可以賺回損失的錢，但是我們不能倒回時間。因此，我們會珍惜並珍惜時間。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 18,
+        "quote": "Be grateful to everything on the world. Be hard-working and live a simple life. Be satisfied with our material things. Be happy when giving charity.",
+        "chinese": "感谢世界上的一切。努力工作，过上简单的生活。对我们的物质事物感到满意。进行慈善活动时要开心。",
+        "traditional": "感謝世界上的一切。努力工作，過上簡單的生活。對我們的物質事物感到滿意。進行慈善活動時要開心。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 19,
+        "quote": "The best thing in the world is happiness. the kindest act in the world is to form ties of good causes and conditions. The strongest power in the world is endurance. The most powerful determination in the world is willingness to do things wholeheartedly.",
+        "chinese": "世界上最好的事情是幸福。世界上最仁慈的举动是建立良好因果关系。耐力是世界上最强大的力量。世界上最强大的决心是全心全意做事。",
+        "traditional": "世界上最好的事情是幸福。世界上最仁慈的舉動是建立良好因果關係。耐力是世界上最強大的力量。世界上最強大的決心是全心全意做事。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 20,
+        "quote": "With sincerity and passion, we can earn people's loyalty. With a right and religious thought, we can overcome evil thoughts.",
+        "chinese": "有了真诚和热情，我们就能赢得人们的忠诚。有了正确的宗教思想，我们就可以克服邪恶的思想。",
+        "traditional": "以真誠和熱情，我們可以贏得人們的忠誠。有了正確的宗教思想，我們就可以克服邪惡的思想。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 21,
+        "quote": "If you are a genius but always say \"wait till tomorrow!\" then you are no diffrent from a normal person. If you are capable but always say \"let someone else do it!\" then you are no diffrent from an incompetent person.",
+        "chinese": "如果您是个天才，但总是说“等到明天！”那么您与正常人毫无二致。如果您有能力，但总是说“让别人做！”那你就不会与一个无能的人有什么区别。",
+        "traditional": "如果您是個天才，但總是說“等到明天！”那麼您與正常人毫無二致。如果您有能力，但總是說“讓別人做！”那你就不會與一個無能的人有什麼區別。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 22,
+        "quote": "We can lose the money, but we will not lose our Buddha Nature. There's a ranking order in position, but there's no ranking order in our Buddha Nature.",
+        "chinese": "我们可以赔钱，但我们不会失去佛性。位置有排名顺序，但是我们的佛陀自然没有排名顺序。",
+        "traditional": "我們可以賠錢，但我們不會失去佛性。位置有排名順序，但是我們的佛陀自然沒有排名順序。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 23,
+        "quote": "Things happen when all the conditions are ready. Things end when all the conditions cease. When all the conditions are ready, everything goes smoothly. When all the conditions are not ready, everything fails.",
+        "chinese": "当所有条件都准备就绪时，事情就会发生。当所有条件都消失了，事情就结束了。当所有条件都准备就绪时，一切都会顺利进行。当所有条件都没有准备好时，一切都会失败。",
+        "traditional": "當所有條件都準備就緒時，事情就會發生。當所有條件都消失了，事情就結束了。當所有條件都準備就緒時，一切都會順利進行。當所有條件都沒有準備好時，一切都會失敗。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 24,
+        "quote": "Willing to give happiness to others, You are close to the Buddha's heart. Willing to give good conditions to others, you have assimilated the Buddhist teachings.",
+        "chinese": "愿意给别人幸福，你接近佛陀的心。愿意为他人提供良好的条件，您已经吸收了佛教教义。",
+        "traditional": "願意給別人幸福，你接近佛陀的心。願意為他人提供良好的條件，您已經吸收了佛教教義。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 25,
+        "quote": "Let attitude remain unchanged in poverty or wealth. Let your honour remain unchanged in politeness or rudeness. Let faith remain unchanged in success or failure.",
+        "chinese": "让态度在贫穷或财富中保持不变。让您的荣誉保持礼貌或无礼。让信念在成功或失败中保持不变。",
+        "traditional": "讓態度在貧窮或財富中保持不變。讓您的榮譽保持禮貌或無禮。讓信念在成功或失敗中保持不變。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 26,
+        "quote": "Accepting good advice can correct mistakes. The charitable donors can cherish everything. A gentleman accepts advice, a kind person gives charity.",
+        "chinese": "接受好的建议可以纠正错误。慈善捐助者可以珍惜一切。绅士接受建议，善良的人给予慈善。",
+        "traditional": "接受好的建議可以糾正錯誤。慈善捐助者可以珍惜一切。紳士接受建議，善良的人給予慈善。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 27,
+        "quote": "Calmness and peace are the happiest things. Quietness is the most enjoyable thing.",
+        "chinese": "冷静与和平是最幸福的事情。安静是最令人愉快的事情。",
+        "traditional": "冷靜與和平是最幸福的事情。安靜是最令人愉快的事情。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 28,
+        "quote": "Cherishing merits lead to more merits. Cherishing good conditions lead to better conditions.",
+        "chinese": "珍惜功绩会带来更多功绩。珍惜好条件会带来更好的条件。",
+        "traditional": "珍惜功績會帶來更多功績。珍惜好條件會帶來更好的條件。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Feb",
+        "day": 29,
+        "quote": "Seeing fame and fortune from a distance will help you detach. Avoiding fame and fortune will get you out of truble. When living a simple life, one understands fame and fortune better. Letting go of fame and fortune will result in fewer worries.",
+        "chinese": "从远处看名利双收会帮助您脱颖而出。避免名利双收会使您陷入困境。在过着简单的生活时，人们会更好地了解名声和财富。放开名利，将减少忧虑。",
+        "traditional": "從遠處看名利雙收會幫助您脫穎而出。避免名利雙收會使您陷入困境。在過著簡單的生活時，人們會更好地了解名聲和財富。放開名利，將減少憂慮。",
+        "type": "Wealth" 
+    },
+    {
+        "month": "Mar",
+        "day": 1,
+        "quote": "Momentary forbearance brings permanent happiness. Momentary grievance brings ultimate success.",
+        "chinese": "短暂的忍耐带来永久的幸福。短暂的不满带来了最终的成功。",
+        "traditional": "短暫的忍耐會帶來永久的幸福。短暫的不滿帶來了最終的成功。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 2,
+        "quote": "The waves of time will push a common man to the top of the era if he is patient and persistent. The hand of history will put all the small causes and conditions together and turn them into a great achievement if one works diligently.",
+        "chinese": "时间的浪潮将使一个普通人如果耐心和坚持不懈，就将时代推向了顶峰。历史的力量将所有微小的原因和条件放在一起，如果一个人勤奋工作，它们就会变成一项伟大的成就。",
+        "traditional": "時間的浪潮將使一個普通人耐心和執著地推向時代的頂峰。歷史的力量將所有微小的原因和條件放在一起，如果一個人努力工作，它們就會變成一項偉大的成就。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 3,
+        "quote": "A writer cultivates on paper. A farmer cultivates the land. A teacher cultivates on the blackboard. A meditation practitioner cultivates the mind.",
+        "chinese": "一位作家在纸上耕种。一位农民耕种土地。老师在黑板上耕种。冥想修炼者培养思想。",
+        "traditional": "一位作家在紙上耕種。農民耕種土地。老師在黑板上耕種。冥想修煉者培養思想。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 4,
+        "quote": "To know people's wishes is to accept the public's ambition as our own. To do the best for relationships among people is to observe what the public sees and hears.",
+        "chinese": "知道人们的意愿就是接受公众的野心。在人与人之间建立最佳关系就是观察公众的见闻。",
+        "traditional": "知道人們的願望就是接受公眾的野心。在人與人之間建立最佳關係就是觀察公眾的見聞。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 5,
+        "quote": "Accepting a family unconditionally leads to leadership of the family. Accepting a country unconditionally leads to kingship of the country. Accepting the universe unconditionally leads to lordship of the world. The size of you world is dependent on the openness of your mind.",
+        "chinese": "无条件接纳家庭会导致家庭领导。无条件接受一个国家会导致该国家的王权。无条件接受宇宙会导致世界的主权。您世界的大小取决于您思想的开放性。",
+        "traditional": "無條件接納家庭會導致家庭領導。無條件接受一個國家會導致該國家的王權。無條件接受宇宙會導致世界的主權。世界的大小取決於您思想的開放性。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 6,
+        "quote": "Share benefits to repay society; share glory with everyone. Handle affairs with teamwork; deal with people like one big family.",
+        "chinese": "分享利益以回报社会；与大家分享荣耀。通过团队合作处理事务；像一个大家庭一样与人打交道。",
+        "traditional": "分享利益以回報社會；與大家分享榮耀。通過團隊合作處理事務；像一個大家庭一樣與人打交道。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 7,
+        "quote": "Think twice before speaking; can you keep your word? Think twice before acting; is it beneficial to others?",
+        "chinese": "说话前请三思；你能信守诺言吗？演戏前要三思。对别人有好处吗？",
+        "traditional": "說話前請三思。你能信守諾言嗎？演戲前要三思。對別人有好處嗎？",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 8,
+        "quote": "Being receptive to everything when studying, one will become a great person in the future. Being open to suggestions when searching, one will be more thoughtful when implementing.",
+        "chinese": "学习时会接受一切，将来会成为伟人。在搜索时建议开放，实施时会更周到。",
+        "traditional": "學習時會接受一切，將來會成為偉人。在搜索時建議開放，實施時會更周到。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 9,
+        "quote": "Unity brings harmony, and vice versa. Sharing the workload requires cooperation, and vice versa.",
+        "chinese": "团结带来和谐，反之亦然。共享工作量需要合作，反之亦然。",
+        "traditional": "團結帶來和諧，反之亦然。共享工作量需要合作，反之亦然。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 10,
+        "quote": "Medicine is neither good nor bad; it is good as long as it cures an illness. Dharma is neither good nor bad; it is good as long as it guides us to the right path.",
+        "chinese": "医学既不是好事也不是坏事。只要能治好病就好。佛法既不是好事也不是坏事。只要它能引导我们走上正确的道路，那就好。",
+        "traditional": "醫學既不是好事也不是壞事。只要能治好病就好。佛法既不是好事也不是壞事。只要它能引導我們走上正確的道路，那就好。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 11,
+        "quote": "It is better to create opportunity for good causes and conditions than to idle away waiting for them to occur.",
+        "chinese": "为良好的原因和条件创造机会比闲置等待它们发生的更好。",
+        "traditional": "為良好的原因和條件創造機會要比閒置等待它們發生更好。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 12,
+        "quote": "Life is like a sailing boat, we should sail on with confidence regardless of place and time. Life is like a battle field, we should march on with courage regardless of safety or danger.",
+        "chinese": "生活就像一艘帆船，无论地点和时间如何，我们都应充满信心地航行。生活就像战场，无论安全与危险，我们都要勇往直前。",
+        "traditional": "生活就像帆船，無論地點和時間如何，我們都應充滿信心地航行。生活就像戰場，無論安全與危險，我們都要勇往直前。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 13,
+        "quote": "Convince others with reasoning. Restrain reckless acts with calmness. Influence the world with sincerity. Subdue the enemy with kindness and compassion.",
+        "chinese": "说服他人。冷静地克制鲁行为行为。真诚地影响世界。用仁慈和同情心征服敌人。",
+        "traditional": "說服他人。冷靜地克制魯行為行為。真誠地影響世界。用仁慈和同情心征服敵人。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 14,
+        "quote": "Good time management brings happiness. Self-enrichment brings knowledge. Self-reliance and self-discipline bring peace and security. Self-motivation brings success.",
+        "chinese": "良好的时间安排可以带来幸福。自我充实带来知识。自力更生和自律带来和平与安全。自我激励带来成功。",
+        "traditional": "良好的時間安排可以帶來幸福。自我充實帶來知識。自力更生和自律帶來和平與安全。自我激勵帶來成功。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 15,
+        "quote": "Planting in spring every year will certaintly lead to an autumn harvest. Always lending a helping hand will in return receive help. Abstaining from unwholesome thoughts will certainly not bring unwholesome retribution. Abstaining from interfering in others' affairs will certainly not bring trouble.",
+        "chinese": "每年春季播种肯定会导致秋季收获。始终伸出援助之手将得到回报。摒弃不道德的思想当然不会带来不道德的报应。放弃干涉别人的事情当然不会带来麻烦。",
+        "traditional": "每年春季播種肯定會導致秋季收穫。始終伸出援助之手將得到回報。摒棄不道德的思想當然不會帶來不道德的報應。放棄干涉別人的事情當然不會帶來麻煩。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 16,
+        "quote": "There may be many opportunities in difficult times. There will be limitless achievements in hard work. Therefore, we should not escape from difficulties and hardships but face them instead.",
+        "chinese": "在困难时期可能会有很多机会。艰苦的工作将取得无限的成就。因此，我们不应摆脱困难和困难，而要面对困难。",
+        "traditional": "在困難時期可能會有很多機會。艱苦的工作將取得無限的成就。因此，我們不應擺脫困難和困難，而要面對困難。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 17,
+        "quote": "Have a plan before you act. Have a budget before you spend money. Set a goal before you practice. Have a hope for the future.",
+        "chinese": "在采取行动之前要有一个计划。花钱之前先预算一下。在练习之前设定目标。对未来充满希望。",
+        "traditional": "在採取行動之前要有一個計劃。花錢之前先預算一下。在練習之前設定目標。對未來充滿希望。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 18,
+        "quote": "Know a person's strength when you employ him. Know a person's weakness when you teach him.",
+        "chinese": "雇用一个人时要知道他的力量。教一个人时要知道他的弱点。",
+        "traditional": "僱用一個人時要知道他的力量。教一個人時要知道他的弱點。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 19,
+        "quote": "Those who are worthy to be of use to others are worth something. Those who are willing to be of use to others will be someone. Those who are unable to be of use to others will not be successful. Those who refuse to be of use to others will have no achievement.",
+        "chinese": "那些值得别人使用的人值得一事。那些愿意被别人使用的人会成为一个人。那些无法被他人使用的人将不会成功。那些拒绝对别人有用的人将没有成就。",
+        "traditional": "那些值得別人使用的人值得一事。那些願意被別人使用的人會成為一個人。那些無法被他人使用的人將不會成功。那些拒絕對別人有用的人將沒有成就。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 20,
+        "quote": "Be afraid of flattering not criticism. Be afraid of ignorance not failure.",
+        "chinese": "害怕奉承而不批评。害怕无知而不是失败。",
+        "traditional": "害怕奉承而不批評。害怕無知而不是失敗。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 21,
+        "quote": "Comprehending other people is the way to show understanding. Forgiving other people is the way to show harmony. Accepting other people is the way to show solidarity. Caring for other people is the way to show friendliness.",
+        "chinese": "理解他人是表达理解的方式。宽容他人是表现和谐的方式。接纳他人是表达团结的方式。关爱他人是表达友善的方式。",
+        "traditional": "理解他人是表達理解的方式。寬容他人是表現和諧的方式。接納他人是表達團結的方式。關愛他人是表達友善的方式。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 22,
+        "quote": "Great people fulfil themselves by helping others accomplish. Mean people fulfil themselves by holding others back.",
+        "chinese": "伟大的人们通过帮助他人成就自己来实现自己。意味着人们通过阻止他人来实现自己。",
+        "traditional": "偉人通過幫助他人成就自己來實現自己。意味著人們通過阻止他人來實現自己。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 23,
+        "quote": "People who do not practice self-reflection will never see their weaknesses. People who do not strive forward will never spread their strengths.",
+        "chinese": "没有自我反省的人将永远不会看到自己的弱点。不奋进的人永远不会散布自己的力量。",
+        "traditional": "沒有自我反省的人將永遠不會看到自己的弱點。不進取的人永遠不會散佈自己的力量。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 24,
+        "quote": "Contentment is a recipe for liberation from desires. Gratitude is the gateway to obtaining wealth.",
+        "chinese": "知足是摆脱欲望的良方。感恩是获取财富的门户。",
+        "traditional": "知足是擺脫慾望的良方。感恩是獲取財富的門戶。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 25,
+        "quote": "A determined person will always find ways and methods to success. An escapist will see only difficulties and obstacles.",
+        "chinese": "一个有决心的人将永远找到成功的方法。逃避现实的人只会看到困难和障碍。",
+        "traditional": "一個有決心的人將永遠找到成功的方法。逃避現實的人只會看到困難和障礙。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 26,
+        "quote": "Those who are able to accept admonition and admit their faults courageously will advance. Those who think themselves to be reasonable and never admit their faults will lag far behind.",
+        "chinese": "那些能够接受训诫并勇于承认自己的错误的人将会前进。那些认为自己是理性的人而从不承认自己的错误的人将远远落后。",
+        "traditional": "那些能夠接受訓誡並勇於承認自己的錯誤的人將會前進。那些認為自己是理性的人而從不承認自己的錯誤的人將遠遠落後。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 27,
+        "quote": "Let us pick the difficult tasks for ourselves and leave pleasant things first to others. Let is be accountable for wrongdoings ourselves and be generous in praising others.",
+        "chinese": "让我们为自己选择艰巨的任务，然后将愉快的事情留给别人。我们要为自己的不当行为负责，并慷慨地赞美他人。",
+        "traditional": "讓我們為自己選擇艱鉅的任務，然後將愉快的事情留給別人。我們要為自己的不當行為負責，並慷慨地讚美別人。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 28,
+        "quote": "Don't be self-conceited when being praised. Don't be resentful when being bullied. Don't be discouraged when encountering failure. Don't be arrogant when being successful.",
+        "chinese": "受到称赞时不要自负。被欺负时不要愤慨。遇到失败时不要灰心。成功时不要自大。",
+        "traditional": "受到稱讚時不要自負。被欺負時不要憤慨。遇到失敗時不要灰心。成功時不要自大。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 29,
+        "quote": "True reputation is not about something that is praised by contemporaries, but about something to be followed by future generations. True possession is not about something that is owned by oneself, but something that can be shared with others.",
+        "chinese": "真正的声誉不是当代人所称赞的东西，而是后代人应该遵循的东西。真正拥有不是关于自己拥有的东西，而是可以与他人共享的东西。",
+        "traditional": "真正的聲譽不是當代人所稱讚的東西，而是後代人應該遵循的東西。真正擁有不是關於自己擁有的東西，而是可以與他人共享的東西。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 30,
+        "quote": "Being a leader, one must listen to good advice when making decisions and adhere to the right path when implementing them. Being a subordinate, one must be honest and open when proposing plans and follow the order of the leader when executing them.",
+        "chinese": "作为领导者，在制定决策时必须听取良好的建议，并在执行决策时遵循正确的道路。作为下属，提出计划时必须诚实坦诚，执行计划时必须遵循领导的命令。",
+        "traditional": "作為領導者，在製定決策時必須聽取良好的建議，並在執行決策時遵循正確的道路。作為下屬，提出計劃時必須誠實坦誠，執行計劃時必須遵循領導的命令。",
+        "type": "Career" 
+    },
+    {
+        "month": "Mar",
+        "day": 31,
+        "quote": "A capable man can create a great outcome out of even a small task. In incapable man will want a big task turing it into dust.",
+        "chinese": "一个有能力的人甚至可以完成一个很小的任务，就可以创造出伟大的成果。在无能为力的人中，将需要一项艰巨的任务将其尘土飞扬。",
+        "traditional": "一個有能力的人甚至可以完成一個很小的任務，就可以創造出偉大的成果。在沒有能力的人中，將需要一項艱鉅的任務將其變成塵土。",
+        "type": "Career" 
+    },
+    {
+        "month": "Apr",
+        "day": 1,
+        "quote": "As a person, one should know the four elements are essentially that of emptiness. In dealing with matters, one should understand the five aggregates are non-existent. In cultivation, one should practice the Dharma door of non-duality. One's state of mind should be vast and carefree like the Pure Land of all Buddhas.",
+        "chinese": "作为一个人，应该知道这四个要素本质上是空虚的要素。在处理事务时，应了解这五种汇总不存在。在修炼中，应该练习非二重法门。一个人的心态应该像所有佛祖的净土一样广阔无忧。",
+        "traditional": "作為一個人，應該知道這四個要素本質上是空虛的要素。在處理事務時，應該理解這五種匯總不存在。在修煉中，應該練習非二重法門。一個人的心態應該像所有佛祖的淨土一樣廣闊無憂。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 2,
+        "quote": "One with a measure of cultivation will have a measure of a refined disposition. The more tolerance one has, the more affinity one will have with others.",
+        "chinese": "一个有一定修养的人将有一个精致的性格。一个人的忍耐力越强，与他人的亲和力就越强。",
+        "traditional": "一個有一定修養的人將有一個精緻的性格。一個人的忍耐力越強，與他人的親和力就越強。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 3,
+        "quote": "Only by shouldering responsibility will there be improvement. Only through willingness to contribute will there be achievements.",
+        "chinese": "只有承担责任，才能有所改善。只有通过愿意贡献，才有成就。",
+        "traditional": "只有承擔責任，才能有所改善。只有願意貢獻，才有成就。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 4,
+        "quote": "In the goal of cultivation, no-mind is the highest state; In principles of handling affairs, being attentive is the foundation of success.",
+        "chinese": "在修养的目标上，无意识是至高无上的状态。在处理事务的原则上，专心是成功的基础。",
+        "traditional": "以修養為目標，無意識是至高無上的狀態。在處理事務的原則上，專心是成功的基礎。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 5,
+        "quote": "There must be roots in our mind in order to bring about fruition, There must be vows in our mind in order to succeed in a career. There must be reason in our mind in order to travel around the world. Ther must be a master in our mind in order to live truthfully.",
+        "chinese": "为了取得成就，我们的心中必须有根基；为了事业成功，我们的心中必须有誓言。为了环游世界，我们必须有一定的理智。为了真实地生活，他们必须是我们心中的主人。",
+        "traditional": "為了取得成果，我們的心中必有根源；為了事業成功，我們的心中必定有誓言。為了環遊世界，我們必須有一定的理智。為了真實地生活，他們必須是我們心中的主人。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 6,
+        "quote": "Be an upright person who dares to speak and act. Do not be a passive good person who is muddled and confused.",
+        "chinese": "做一个勇于直言，敢于说话和行动的人。不要成为一个糊涂和困惑的被动好人。",
+        "traditional": "做一個勇於直言，敢於說話和行動的人。不要成為一個糊塗和困惑的被動好人。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 7,
+        "quote": "In our association with others, we must show affection and righteousness. When we are doing things for others, we must be loyal and trustworthy.",
+        "chinese": "在与他人交往中，我们必须表现出情感和公义。当我们为他人做事时，我们必须忠诚和守信。",
+        "traditional": "在與他人交往中，我們必須表現出情感和公義。當我們為他人做事時，我們必須忠誠和守信。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 8,
+        "quote": "We must constantly seek ways to create causes and conditions for others, but never to think how many benefits others have given us.",
+        "chinese": "我们必须不断寻求为他人创造原因和条件的方法，但决不要考虑他人给我们带来了多少好处。",
+        "traditional": "我們必須不斷尋求為他人創造原因和條件的方法，但決不要考慮他人給我們帶來了多少好處。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 9,
+        "quote": "Patience is a art; persistence is a form of hope. Patience and persistence lead to success in handling affairs; Patience and persistence help one to be proficient in conducting oneself.",
+        "chinese": "忍耐是一门艺术；坚持是希望的一种形式。耐心和毅力导致成功处理事务。耐心和坚持不懈可以帮助自己精通自己。",
+        "traditional": "忍耐是一門藝術；堅持是希望的一種形式。耐心和毅力導致成功處理事務。耐心和堅持不懈可以幫助自己精通自己。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 10,
+        "quote": "One who knows to introspect is always grateful. One who is grateful always treasures happiness and cherishes affinity.",
+        "chinese": "内省的人总是心存感激。感恩的人总是珍惜幸福，珍惜亲和力。",
+        "traditional": "內省的人總是心存感激。感恩的人總是珍惜幸福，珍惜親和力。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 11,
+        "quote": "One seeks cultivation but not harvest; One comfronts other's sufferings but does not seek pleasure for oneself. One thinks only of giving but not repayment; One wishes for achievement without fussing about hardship.",
+        "chinese": "一个人寻求耕种而不是收获；一个人面对别人的痛苦，却不为自己寻求快乐。人们只考虑给予，而不考虑还款；一个人希望获得成就，而不必大惊小怪。",
+        "traditional": "一個人尋求耕種而不是收穫；一個人面對別人的痛苦，卻不為自己尋求快樂。有人只考慮給予而沒有還款；一個人希望獲得成就，而不必大驚小怪。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 12,
+        "quote": "One who can accept disadvantage may in return reap a big advantage. One who can undertake suffering may gain immense peace and happiness. One who is amiable will acquire tremendous strength. One who shares wealth may earn a great gathering.",
+        "chinese": "可以接受不利条件的人可能会反过来获得很大的好处。一个可以承受苦难的人可以获得巨大的和平与幸福。一个和能够可亲的人将获得巨大的力量。分享财富的人可能会聚集一堂。",
+        "traditional": "可以接受不利條件的人可能會反過來獲得很大的好處。一個可以承受苦難的人可以獲得巨大的和平與幸福。一個和能夠可親的人將獲得巨大的力量。分享財富的人可能會聚集一堂。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 13,
+        "quote": "One has to endure much bitterness to be successful. Celebrities endure much pressure with fame. There is a price to pay for each glory. Great achievement requires much sacrifice.",
+        "chinese": "一个人必须忍受许多痛苦才能成功。名人承受着名气很大的压力。每一项荣耀都有代价。伟大的成就需要付出很多牺牲。",
+        "traditional": "一個人必須忍受許多痛苦才能成功。名人承受著名氣很大的壓力。每一個榮耀都要付出代價。偉大的成就需要付出很多犧牲。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 14,
+        "quote": "With a strong will, one will not be influenced by one's enviroment. With aspiring objectives, one will be able to undertake a career of cultivation.",
+        "chinese": "拥有坚强的意志，就不会受到周围环境的影响。有远大的目标，人们将能够从事耕种的职业。",
+        "traditional": "有了堅強的意志，就不會受到周圍環境的影響。有遠大的目標，人們將能夠從事耕種的職業。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 15,
+        "quote": "If daring is courage, then it has wisdom. If daring is aspiration, then it can undertake anything.",
+        "chinese": "如果大胆是勇气，那么就有智慧。如果敢于抱负，那么它可以承担任何责任。",
+        "traditional": "如果大膽是勇氣，那麼就有智慧。如果敢於抱負，那麼它可以承擔任何責任。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 16,
+        "quote": "The ability to overcome problems will gain opportunities. The ability to solve problems will dissolve crises. The ability to face problems will seek auspiciousness. The ability to not be afraid of problems will seize chances.",
+        "chinese": "克服问题的能力将获得机会。解决问题的能力将化解危机。面对问题的能力将寻求吉祥。不怕问题的能力会抓住机会。",
+        "traditional": "克服問題的能力將獲得機會。解決問題的能力將化解危機。面對問題的能力將尋求吉祥。不怕問題的能力會抓住機會。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 17,
+        "quote": "Go beyond conventions. Avoid being complacent and conservative so that you may transform and prograss. Exercise foresight. Avoid being over ambitious so that you may maintain the earlier achievements and continue to grow.",
+        "chinese": "超越惯例。避免沾沾自喜和保守，以免转变和磨砺。锻炼远见。避免过于野心勃勃，以便您可以保持较早的成就并继续成长。",
+        "traditional": "超越慣例。避免沾沾自喜和保守，以免轉變和磨礪。鍛煉遠見。避免過於野心勃勃，以便您可以保持較早的成就並繼續成長。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 18,
+        "quote": "A tree cannot grow to a great height if not exposed to the sun and rain. A person's character is incomplete if not tempered repeatedly.",
+        "chinese": "如果不暴露在阳光和雨水下，一棵树就无法生长到很高的高度。如果不反复锻炼，一个人的性格是不完整的。",
+        "traditional": "如果不暴露在陽光和雨水下，一棵樹就無法生長到很高的高度。如果不反复鍛煉，一個人的性格是不完整的。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 19,
+        "quote": "The path of ships is the ocean. The path of lights is the night. The path to good behaviour is charitable deeds. The path to enlightenment is compassion and wisdom.",
+        "chinese": "船只的路径是海洋。灯火通明的夜晚。取得良好行为的途径就是慈善行为。开悟的道路是同情和智慧。",
+        "traditional": "船隻的路徑是海洋。燈火通明的夜晚。取得良好行為的途徑就是慈善行為。開悟的道路是同情和智慧。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 20,
+        "quote": "Refrain from overeating, refrain from excessive speech. Refrain from overreaching; refrain from over performing. Our duty is to take care of the present. Overdoing will cause us to miss out in the future.",
+        "chinese": "避免暴饮暴食，避免过度言语。避免过度扩张；避免表现过度。我们的职责是照顾现在。过度使用会使我们将来错过。",
+        "traditional": "避免暴飲暴食，避免過度言語。避免過度擴張；避免表現過度。我們的職責是照顧現在。過度使用會使我們將來錯過。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 21,
+        "quote": "We can't stop time but we can realize the truth of impermanence from it. We can't chase after time but we can see clearly the value of life from it.",
+        "chinese": "我们不能停止时间，但是我们可以从中了解无常的真相。我们不能追赶时间，但是我们可以从中清楚地看到生命的价值。",
+        "traditional": "我們不能停止時間，但是我們可以從中了解無常的真相。我們不能追趕時間，但是我們可以從中清楚地看到生命的價值。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 22,
+        "quote": "Orchids are hidden deep in the valley. Pearls are submerged in the bottom of the sea. Precious jade is shaped after carving and polishing. Iron and steel are cast after smelting and hammering. Great talents arise in maturity. Illustrious and influential talents emerge from humility. Sages and men of virtue could be hidden in mean alleys. Great wisdom could be masked as a fool.",
+        "chinese": "兰花藏在山谷深处。珍珠被淹没在海底。玉石经过雕刻和抛光后成型。钢铁在冶炼和锤击后铸造。成熟时会产生伟大的才能。有才华和有影响力的人才来自谦卑。圣人和美德可能会藏在卑鄙的小巷中。伟大的智慧可能被掩盖为傻瓜。",
+        "traditional": "蘭花藏在山谷深處。珍珠被淹沒在海底。玉石經過雕刻和拋光後成型。鋼鐵在冶煉和錘擊後鑄造。成熟時會產生偉大的才能。謙虛會產生有才華和影響力的人才。聖人和美德可能會藏在卑鄙的小巷中。偉大的智慧可能被掩蓋為傻瓜。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 23,
+        "quote": "Asserting tolerance of criticism from other people is the way to behave with integrity. Having courage to correct one's own mistakes is the way to accomplish goals.",
+        "chinese": "主张宽容他人的批评是诚实行事的方式。有勇气纠正自己的错误是实现目标的方式。",
+        "traditional": "主張寬容他人的批評是誠實行事的方式。有勇氣糾正自己的錯誤是實現目標的方式。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 24,
+        "quote": "Generous people are not greedy. People who sacrifice their lives are not scoundrels. People detached from worldly desires do not wrestle for fame. People who strive to bring honour to their parents are not unworthy.",
+        "chinese": "慷慨的人并不贪婪。牺牲生命的人不是无赖。脱离世俗欲望的人不会为名声而搏斗。努力为父母带来荣誉的人并非不值得。",
+        "traditional": "慷慨的人並不貪婪。犧牲生命的人不是無賴。脫離世俗慾望的人不會為名聲而搏鬥。努力為父母帶來榮譽的人並非不值得。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 25,
+        "quote": "A noble person plans not only for herself but also for all beings. It is vital to achieve enlightenment for self and others.",
+        "chinese": "一个高尚的人不仅为自己谋划，而且为所有人谋划。实现对自己和他人的启发至关重要。",
+        "traditional": "貴族不僅為自己，而且為眾生計劃。實現對自己和他人的啟發至關重要。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 26,
+        "quote": "To be able to retreat as another steps forward reflects allowing. One gains inner riches id one knows how to base shunyata as the foundation of existence. One makes a life complete if one knows how to serve others as if serving oneself. One achieves Dharma happiness if one knows how to treat emptiness as enjoyment.",
+        "chinese": "能够退缩，这是允许的。一个人获得内在财富，一个人就会知道如何将hunyata作为存在的基础。如果一个人知道如何为他人服务就好像为自己服务一样，就可以使生活变得完整。如果一个人知道如何将空虚视为一种享受，就可以达到佛法的幸福。",
+        "traditional": "能夠退縮，這是允許的。人們會獲得內在的財富，也知道如何以“春日塔”為生存基礎。如果一個人知道如何為他人服務就好像為自己服務一樣，就可以使生活變得完整。如果一個人知道如何將空虛視為一種享受，就可以達到佛法的幸福。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 27,
+        "quote": "Acting in self-interest only is the act of a villain. Acting in the intersts of self-first before others is the act of a mundane person. Acting in the intersets of others first before oneself is the act of a virtuous person. Acting in the intersts of others without self-interest is the conduct of a Bodhisattva.",
+        "chinese": "出于个人利益行事只是小人的行为。世俗的人的行为是先于他人进行的自我优先行为。首先在自己的人生中行动是一种贤惠的人的行为。菩萨的行为是在没有私利的情况下在他人的利益中行动。",
+        "traditional": "出於私利行事只是小人的行為。世俗的人的行為是先於他人進行的自我優先行為。首先在自己的人生中行動是一種賢惠的人的行為。菩薩的行為是在沒有私利的情況下在他人的利益中行動。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 28,
+        "quote": "Beautify our body and mind with morality; not necessarily though make-up and appearance. Enrich ourselves with compassion; not necessarily though fame and position to elevate status.",
+        "chinese": "用道德美化我们的身心。虽然不一定是化妆和外观。充满同情心；不一定通过名望和地位来提升地位。",
+        "traditional": "用道德美化我們的身心。不一定，雖然化妝和外觀。充滿同情心；不一定通過名望和地位來提升地位。",
+        "type": "Personality" 
+    },
+    {
+        "month": "Apr",
+        "day": 29,
+        "quote": "Patience is real power. Generosity is true wisdom. Tolerance is true compassion. Contentment is real wealth. Patience, generosity, tolerance and contentment are the four treasures of life.",
+        "chinese": "耐心是真正的力量。慷慨是真正的智慧。宽容是真正的同情心。知足是真正的财富。忍耐，慷慨，宽容和满足是生活的四宝。",
+        "traditional": "耐心是真正的力量。慷慨是真正的智慧。寬容是真正的同情心。知足是真正的財富。忍耐，寬容，寬容和自足是生活的四寶。",
+        "type": "Personality" 
+    },
+    {
+        "month": "May",
+        "day": 1,
+        "quote": "The abode of fishes is the sea. The abode of birds is the forest. The abode of people is their home. The abode of Buddha's path is the realization of the nature of emptiness.",
+        "chinese": "鱼的住所是大海。鸟类的住所是森林。人们的住所就是他们的家。佛陀之路的住所是空虚本质的实现。",
+        "traditional": "魚的住所是大海。鳥類的住所是森林。人們的住所就是他們的家。佛陀之路的住所是空虛本質的實現。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 2,
+        "quote": "Diligence makes a family prosperous. Laziness makes a family weak. Thrift makes a family wealthy. Being a spendthrift makes a family poor.",
+        "chinese": "勤奋使家庭繁荣。懒惰会使家庭虚弱。节俭使家庭富裕。节俭会使家庭变得贫穷。",
+        "traditional": "勤奮使家庭繁榮。懶惰會使家庭虛弱。節儉使家庭富裕。節儉會使家庭變得貧窮。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 3,
+        "quote": "Morning is the best start of the day. Diligence is the best exercise in a lifetime. A clear mind is the best tool to do things. Harmony is the best principle for a happy family.",
+        "chinese": "早晨是一天中最好的开始。勤奋是一生中最好的锻炼。头脑清晰是做事的最佳工具。和谐是幸福家庭的最佳原则。",
+        "traditional": "早晨是一天中最好的開始。勤奮是一生中最好的鍛煉。頭腦清晰是做事的最佳工具。和諧是幸福家庭的最佳原則。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 4,
+        "quote": "Do not fight your siblings over material gain. Do not hurt friends and family ties for selfish desire. Do not forsake kindness and compassion out of greed and stinginess. Do not damage the harmony of society and county by violent acts.",
+        "chinese": "不要与兄弟姐妹争夺物质利益。不要因为私欲而伤害朋友和家人。不要出于贪婪和气而放弃仁慈和同情心。不要通过暴力行为破坏社会与县的和谐。",
+        "traditional": "不要與兄弟姐妹爭奪物質利益。不要因為私心而傷害朋友和家人。不要出於貪婪和氣而放棄仁慈和同情心。不要通過暴力行為破壞社會與縣的和諧。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 5,
+        "quote": "Grandparents' smiles are like sunshine to the grandchildren. Children's voices are like music to the parents. A wife's loving words are like a warm breeze to the husband. A husband's arms are fefuge for the whole family.",
+        "chinese": "祖父母的微笑对孙子孙女来说就像阳光一样。对父母来说，孩子的声音就像音乐。妻子的爱心话语对丈夫来说像微风。丈夫的胳膊是整个家庭的福气。",
+        "traditional": "祖父母的微笑對孫子們就像陽光一樣。對父母來說，孩子的聲音就像音樂。妻子的愛心話語對丈夫來說像微風。丈夫的胳膊是整個家庭的福氣。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 6,
+        "quote": "Show filial piety to parents while they are still alive. Start educating your children when they are young.",
+        "chinese": "在父母还活着时向父母孝顺。在孩子小的时候就开始教育他们。",
+        "traditional": "在父母還活著時向父母孝順。在孩子小的時候就開始教育他們。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 7,
+        "quote": "In childhood, we should correct ourselves frequently. In youth, we should face ourselves seriously. In adulthood, we should expand ourselves widely. In old-age, we should perfect ourselves completely.",
+        "chinese": "在儿童时期，我们应该经常纠正自己。在青年时代，我们应该认真面对自己。成年后，我们应该扩大自己。在老年人中，我们应该完全完善自己。",
+        "traditional": "在兒童時期，我們應該經常糾正自己。在青年時代，我們應該認真面對自己。成年後，我們應該擴大自己。在老年時，我們應該完全完善自己。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 8,
+        "quote": "Magnanimity is a great treasure. A harmonious relationship is wonderful. Detachment from fame and gain averts affliction. Joy at heart keeps us young.",
+        "chinese": "宽宏大量。和谐的关系是美好的。脱离名声和获得收益可以避免痛苦。内心的喜悦使我们保持年轻。",
+        "traditional": "寬宏大量。和諧的關係是美好的。脫離名聲和獲得收益可以避免痛苦。內心的喜悅使我們保持年輕。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 9,
+        "quote": "Modesty towards the elders is our duty. Modesty towards peers is being good natured. Modesty towards juniors is noble. Modesty towards strangers is security.",
+        "chinese": "对长者谦虚是我们的责任。对同伴谦虚是善良的。对下辈子谦虚是高尚的。对陌生人的谦虚是安全。",
+        "traditional": "對長者謙虛是我們的責任。對同伴謙虛是善良的。對下輩子謙虛是高尚的。對陌生人的謙虛是安全。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 10,
+        "quote": "Fame and fortune can vanish instaintly. Meritorious deeds and the cultivation of virtue are long lasting. The Three Realms are like a burning house; only by settling our body and mind can we find the Pure Land.",
+        "chinese": "名望和财富会立即消失。功绩和美德的培养是持久的。三个领域就像一座燃烧的房屋。只有安定身心，我们才能找到净土。",
+        "traditional": "名望和財富會立即消失。功績和美德的培養是持久的。三個領域就像一座燃燒的房屋。只有安定身心，我們才能找到淨土。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 11,
+        "quote": "Sparing no effort to serve our parents is a good model for the young generation. Doing good without expecting any returns will reap good karmic results for our young generations.",
+        "chinese": "不遗余力地为父母服务是年轻一代的好榜样。在不期望任何回报的情况下做好事，将为我们的后代收获良好的业力。",
+        "traditional": "不遺餘力地為父母服務是年輕一代的好榜樣。在不期望任何回報的情況下做好事，將為我們的後代收穫良好的業力。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 12,
+        "quote": "Only love itself can gain love in return. Hatred cannot gain love. Only respect itself will gain respect in return. Anger cannot gain respect.",
+        "chinese": "只有爱本身才能获得爱作为回报。仇恨无法获得爱。只有尊重本身才能获得尊重。愤怒无法获得尊重。",
+        "traditional": "只有愛本身才能獲得愛作為回報。仇恨無法獲得愛。只有尊重本身才能獲得尊重。憤怒無法獲得尊重。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 13,
+        "quote": "Purify sentiment with rationality. Operate sentiment with compassion. Regulate sentiment with etiquette. Guide sentiment with ethics.",
+        "chinese": "理性地净化情绪。充满同情心地操作情绪。用礼节调节情绪。用道德引导情感。",
+        "traditional": "理性地淨化情緒。充滿同情心地操作情緒。用禮節調節情緒。用道德指導情感。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 14,
+        "quote": "The greatest happiness in life for children is to be taught by their mother. The greatest happiness in life for a husband is to have his wife's support.",
+        "chinese": "对孩子而言，最大的幸福就是由他们的母亲来教。丈夫一生最大的幸福就是得到妻子的支持。",
+        "traditional": "給孩子們最大的幸福就是由他們的母親來教。丈夫一生最大的幸福就是得到妻子的支持。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 15,
+        "quote": "Greet each other with sincerity and genuineness. Treat each other with respect and courtesy. Get along with each other in peace and tranquility. Encourage each other with self knowledge and Dharma.",
+        "chinese": "以真诚和真诚彼此打招呼。互相尊重和礼貌待人。在和平与安宁中相处。以自我知识和佛法互相鼓励。",
+        "traditional": "以真誠和真誠彼此打招呼。互相尊重和禮貌待人。在和平與安寧中相處。以自我知識和佛法互相鼓勵。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 16,
+        "quote": "A person with a beautiful face may not find happiness in life; A person with a pure mind will find joy and happiness in life.",
+        "chinese": "容颜美丽的人可能无法在生活中找到幸福。一个纯洁的人会在生活中找到快乐和幸福。",
+        "traditional": "容顏美麗的人可能無法在生活中找到幸福。一個純潔的人會在生活中找到快樂和幸福。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 17,
+        "quote": "Use the key of magnanimity to open the cramped and narrow mind. Ise the sword of wisdom to cut through the afflictions of attachment. Use the medicine of loving kindness to soothe the pain of suffering. Use the Dharma nectar of happiness to moisten the worrying life.",
+        "chinese": "用宽宏的钥匙打开局促而狭窄的头脑。伊瑟的智慧之剑可以消除依恋的痛苦。用慈爱的药来缓解痛苦。用幸福的佛法花蜜滋润令人担忧的生活。",
+        "traditional": "用寬宏的鑰匙打開局促而狹窄的頭腦。伊瑟的智慧之劍可以消除依戀的痛苦。用慈愛的藥物舒緩痛苦。用幸福的佛法花蜜滋潤令人擔憂的生活。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 18,
+        "quote": "The best relationship between a mother and daughter-in-law is an intimate as mother and daughter. The second best relationship between a mother and daughter-in-law is as the mutual respect of friends. The third best relationship between a mother and daughter-in-law is as solemn as one between a monarch and minister. The worst relationship between a mother and daughter-in-law is like the meeting of foes.",
+        "chinese": "母女之间的最佳关系是母女之间的亲密关系。母女之间的第二好的关系是朋友之间的相互尊重。母女之间的第三佳关系是君主和牧师之间的第三重关系。母女之间最糟糕的关系就像仇敌相遇。",
+        "traditional": "母女之間的最佳關係是母女之間的親密關係。母女之間的第二好的關係是朋友之間的相互尊重。母女之間的第三佳關係是君主和牧師之間的第三重關係。母女之間最差的關係就像仇敵相遇。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 19,
+        "quote": "Equality and peace are established when everyone is happy. Great communication and coordination are essentials of this happiness.",
+        "chinese": "每个人都快乐时，就建立了平等与和平。良好的沟通和协调是这种幸福的基本要素。",
+        "traditional": "每個人都快樂時，就建立了平等與和平。良好的溝通和協調是這種幸福的基本要素。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 20,
+        "quote": "Knowledge and ethics should be equally emphasized. Loving kindness and stateliness should be equally emphasized. Learning from teachers and from oneself is equally importaint. Being calm and being dynamic are equally importaint.",
+        "chinese": "应同等重视知识和道德。应当同等地重视爱心和庄重。向老师学习和向自己学习同样重要。保持镇定和充满活力同样重要。",
+        "traditional": "應同等重視知識和道德。應當同等地重視愛心和莊重。向老師學習和向自己學習同樣重要。保持鎮定和充滿活力同樣重要。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 21,
+        "quote": "It is best when parents teach moreality to their children and urge them to conduct themselves wisely. thus emulating the role model of the saints and sages. The second best situation is when parents provide enough for their children and teach them to build a career and family. The third kind of situation is when parents allow their children to do as they wish and spoil them. The worst parents neglect their children's upbringing and education and always abuse them.",
+        "chinese": "父母最好教孩子更多的道德感，并敦促他们明智地做事。从而效仿圣徒和圣贤的榜样。第二好的情况是父母为子女提供足够的钱并教他们建立事业和家庭。第三种情况是父母让孩子按自己的意愿做事并宠坏他们的情况。最坏的父母忽视了孩子的成长和教育，并总是虐待他们。",
+        "traditional": "父母最好教孩子更多的道德感，並敦促他們明智地做事。從而效仿聖徒和聖賢的榜樣。第二好的情況是父母為子女提供足夠的錢並教他們建立事業和家庭。第三種情況是父母讓孩子按照自己的意願做事並寵壞他們的情況。最壞的父母忽視了孩子的成長和教育，並總是虐待他們。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 22,
+        "quote": "The curriculum of education aims at developing mentality. The essence of education rests in adopting different approaches to cater to differnt kinds of individuals. The foundation of education lies in daily practice. The aim of education is to achieve a wholesome chrachter.",
+        "chinese": "教育课程旨在培养心态。教育的本质在于采用不同的方法来迎合不同类型的个体。教育的基础在于日常实践。教育的目的是达到健康的要求。",
+        "traditional": "教育課程旨在培養心態。教育的本質在於採用不同的方法來迎合不同類型的個人。教育的基礎在於日常實踐。教育的目的是達到健康的要求。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 23,
+        "quote": "Speaking is like shooting an arrow, It cannot be retrieved once released. Hence, be careful with your speech. Worries are like the wild grass. Once it is deeply rooted, it will never wither even when burnt. Hence, guard your mind to be freed from defilements.",
+        "chinese": "说话就像射箭一样，释放后就无法找回。因此，请谨慎讲话。忧虑就像野草。一旦根深蒂固，即使被烧毁也不会枯萎。因此，要保护自己免受污秽的困扰。",
+        "traditional": "說話就像射箭一樣，釋放後就無法找回。因此，請謹慎講話。憂慮就像野草。一旦根深蒂固，即使被燒毀也不會枯萎。因此，要保護自己免受污穢的困擾。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 24,
+        "quote": "Life education is more importaint than the education of knowledge. The education of morality is more importaint than the education of utilitarianism. Common education is more importaint than privileged education. The education towards self-realization is more importaint than receiveing teachings.",
+        "chinese": "生命教育比知识教育更重要。道德教育比功利主义教育更重要。普通教育比特权教育更重要。自我实现的教育比接受教更多更重要。",
+        "traditional": "生命教育比知識教育更重要。道德教育比功利主義教育更重要。普通教育比特權教育更重要。自我實現的教育比接受教更多更重要。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 25,
+        "quote": "Interpersonal relationships can be trained in daily life education. Self-improvement is inspired by ideological education.",
+        "chinese": "人际关系可以在日常生活教育中得到训练。自我完善是受思想教育的启发。",
+        "traditional": "人際關係可以在日常生活教育中得到訓練。自我完善是受思想教育的啟發。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 26,
+        "quote": "Pass on life education with wisdom. Guide juniors with experience. Develop life with cultivation. Analyse the future with virtue.",
+        "chinese": "用智慧进行人生教育。用经验指导大三学生。通过修养发展生活。用美德分析未来。",
+        "traditional": "用智慧進行人生教育。用經驗指導大三學生。通過修養髮展生活。用美德分析未來。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 27,
+        "quote": "To advise others, we must act on what we preach as actions speak louder than words. To overcome ridicule, we must conduct ourselves righteously as facts are louder than debate.",
+        "chinese": "为了向他人提供建议，当行动胜于雄辩时，我们必须按照所宣扬的行动行事。为了克服嘲笑，我们必须公义地行事，因为事实胜于辩论。",
+        "traditional": "為了向他人提供建議，當行動勝於雄辯時，我們必須按照所宣揚的行動行事。為了克服嘲笑，我們必須公義地行事，因為事實勝於辯論。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 28,
+        "quote": "Pass on life education with wisdom. Guide the younger generation with our experience. Develop the depth of life with cultivation. Attain our true mind through faith.",
+        "chinese": "用智慧进行人生教育。用我们的经验指导年轻一代。通过耕种发展生活的深度。通过信仰获得我们的真心。",
+        "traditional": "用智慧進行人生教育。用我們的經驗指導年輕一代。通過修養髮展生活的深度。通過信仰獲得我們的真心。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 29,
+        "quote": "The greatest wealth in the world is not gold or diamonds, but religious faith and virtue. The greatest wealth in the world is not houses or land, but our true mind and Buddha nature.",
+        "chinese": "世界上最大的财富不是黄金或钻石，而是宗教信仰和美德。世界上最大的财富不是房屋或土地，而是我们的真心和佛性。",
+        "traditional": "世界上最大的財富不是黃金或鑽石，而是宗教信仰和美德。世界上最大的財富不是房屋或土地，而是我們的真心和佛性。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 30,
+        "quote": "Ships sail at night are guided by the light house. Pedestrians in an alley are guided by clear signboards on the roads.",
+        "chinese": "夜间航行的船只由灯塔引导。小巷中的行人在道路上被清晰的招牌引导。",
+        "traditional": "夜間航行的船隻由燈塔引導。小巷中的行人在道路上被清晰的招牌引導。",
+        "type": "Family" 
+    },
+    {
+        "month": "May",
+        "day": 31,
+        "quote": "To work on the field, we have to wait till spring. Besides being a qualified worker, we also have to wait for opportunities. Eloquent debate connot compare to honestly. A career path cannot compare to the Buddha path.",
+        "chinese": "要在田间工作，我们必须等到春天。除了成为合格的工人，我们还必须等待机会。雄辩的辩论不能与诚实相提并论。职业道路无法与佛陀道路相提并论。",
+        "traditional": "要在田間工作，我們必須等到春天。除了成為合格的工人，我們還必須等待機會。雄辯的辯論不能與誠實相提並論。職業道路無法與佛陀道路相比。",
+        "type": "Family" 
+    },
+    {
+        "month": "June",
+        "day": 1,
+        "quote": "A mountain is high because it does not reject soil; an ocean is vast because it accommodates all rivers. Heaven and earth are selfless as they contain everything; Buddha nature is formless, hence it manifests everywhere.",
+        "chinese": "一座高山之所以高，是因为它不排斥土壤。海洋辽阔，因为它可以容纳所有河流。天地万物包含一切，无私。佛性是无形的，因此无处不在。",
+        "traditional": "一座高山之所以高，是因為它不排斥土壤。海洋遼闊，因為它可以容納所有河流。天地萬物包含一切，無私。佛性是無形的，因此無處不在。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 2,
+        "quote": "Where there is Dharma, there is compassion. Where there is Dharma, there is Prajna (wisdom). Where there is Dharma, there is faith. Where there is Dharma, there is a way.",
+        "chinese": "哪里有佛法，哪里就有同情心。那里有佛法，那里有般若（智慧）。哪里有佛法，哪里就有信仰。有佛法的地方，就有办法。",
+        "traditional": "哪裡有佛法，哪裡就有同情心。那裡有佛法，那裡有般若（智慧）。哪裡有佛法，哪裡就有信仰。哪裡有佛法，哪裡就有辦法。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 3,
+        "quote": "Political governing is the idea that manages the public and safeguards the society. Buddhism is the strength that educates Buddhism is the strength that educates sentient beings and purifies the society.",
+        "chinese": "政治治理是管理公众，维护社会的理念。佛教是教育的力量佛教是教育众生和净化社会的力量。",
+        "traditional": "政治治理是管理公眾，維護社會的理念。佛教是教育的力量佛教是教育眾生和淨化社會的力量。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 4,
+        "quote": "Real patience is about offering oneself without hesitation; safeguarding the overall situation while working for the welfare of all. Recal cultivation is aiming for self-perfection; willingly sacrificing oneself while offering service to society.",
+        "chinese": "真正的耐心在于毫不犹豫地献身；在为所有人谋福利的同时维护大局。直肠种植旨在自我完善；在为社会提供服务的同时自愿牺牲自己。",
+        "traditional": "真正的耐心在於毫不猶豫地奉獻自己。在為所有人謀福利的同時維護大局。直腸種植旨在自我完善；在為社會提供服務的同時自願犧牲自己。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 5,
+        "quote": "The secret to managing is to be transparent, just, and above all, fair; The best way to handle challenging situations is to understand others along with their emotions and reasoning.",
+        "chinese": "管理的秘诀是透明，公正，最重要的是公平。处理具有挑战性的情况的最佳方法是了解他人以及他们的情绪和推理。",
+        "traditional": "管理的秘訣是透明，公正，最重要的是公平。處理具有挑戰性的情況的最佳方法是了解他人以及他們的情緒和推理。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 6,
+        "quote": "One can only share similar thinking and moral values by having common ideals of equality. One can only co-exist with honour by having similar compassionate ideals. That we co-exist within a single entity is not only the Universal Truth, but also the yardstick for measuring the sanctity of human beings.",
+        "chinese": "只有拥有共同的平等理想，才能分享相似的思想和道德价值观。只有拥有相似的富有同情心的理想，人们才能与荣誉并存。我们在一个实体中共存不仅是普遍真理，而且是衡量人类圣洁性的尺度。",
+        "traditional": "只有擁有共同的平等理想，才能分享相似的思想和道德價值觀。只有擁有相似的富有同情心的理想，人們才能與榮譽並存。我們在一個實體中共存不僅是普遍真理，而且是衡量人類聖潔性的尺度。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 7,
+        "quote": "In success, all things depend on many causes and conditions; In order to grow and develop, all people depend on an infinite number of lives.",
+        "chinese": "成功的万物取决于许多原因和条件。为了成长和发展，所有人都依靠无限的生命。",
+        "traditional": "成功的萬物取決於許多原因和條件。為了成長和發展，所有人都依靠無限的生命。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 8,
+        "quote": "As long as there are wishful thoughts, then there is no distance on this earth. As long as there are aspiring thoughts, sadness or happiness will be impartial in the world.",
+        "chinese": "只要有如意算盘，地球上就没有距离。只要有雄心勃勃的思想，悲伤或幸福就会在世界上保持公正。",
+        "traditional": "只要有如意算盤，地球上就沒有距離。只要有雄心勃勃的思想，悲傷或幸福就會在世界上保持公正。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 9,
+        "quote": "The hope of right view is for achieving humanity. The power of great vows is for achieving great careers.",
+        "chinese": "正确看法的希望是实现人类。伟大的誓言的力量在于成就伟大的事业。",
+        "traditional": "正確看法的希望是實現人類。偉大的誓言的力量在於成就偉大的事業。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 10,
+        "quote": "Not talking about other's misdeeds is being ethical. Not defending one's own misdeeds is being wise. Spreading others' good deeds is being greatful. Not disclosing others' bad deeds is practising good morals.",
+        "chinese": "不谈论别人的不道德行为是有道德的。不为自己的不当行为辩护是明智的。传播他人的善行是伟大的。不公开他人的不良行为就是在实践良好的道德操守。",
+        "traditional": "不談論別人的不道德行為是有道德的。不捍衛自己的不道德行為是明智的。傳播他人的善行是偉大的。不公開他人的不良行為就是在實踐良好的道德。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 11,
+        "quote": "Fight for a lasting impact that personifies righteousness instead of a short glorified impact. Seek for the welfare and benefit of all beings instead of just personal benefit.",
+        "chinese": "争取人格化的持久影响，而不是短暂的荣耀影响。寻求众生的福利和利益，而不仅仅是个人利益。",
+        "traditional": "爭取人格化的持久影響，而不是短暫的光榮影響。尋求眾生的福利和利益，而不僅僅是個人利益。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 12,
+        "quote": "The government has the furious stare of a warrior wanting people to obey laws; Buddhism has the kind look of a Bodhisattva wanting people to be self-disciplined.",
+        "chinese": "政府愤怒地凝视着一个战士，希望人们遵守法律。佛教具有菩萨般的外表，希望人们能自律。",
+        "traditional": "政府憤怒地凝視著一個戰士，希望人們遵守法律。佛教具有菩薩般的外表，希望人們能自律。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 13,
+        "quote": "Be a policeman: Promote righteousness and justice. Be a volunteer: Help and support one another. Be a good person: Serve others and persuade them to do good. Be a good citizen: Obey the law and fulfil responsibilities.",
+        "chinese": "成为一名警察：促进正义与正义。成为志愿者：互相帮助和支持。做一个好人：服务他人并说服他们做好事。成为好公民：遵守法律并履行责任。",
+        "traditional": "成為一名警察：促進正義與正義。成為志願者：互相幫助和支持。做一個好人：服務他人並說服他們做好事。成為好公民：遵守法律並履行責任。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 14,
+        "quote": "We are considered cultured if we have a civil mind. We are considered knowledgeable if we have the ability to discern.",
+        "chinese": "他说：“如果我们有文明的头脑，我们就被认为是有文化的。如果我们有能力辨别，我们就被认为是知识渊博的。",
+        "traditional": "如果我們有文明的頭腦，就被認為是有文化的。如果我們有能力分辨，我們就被認為是知識淵博的。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 15,
+        "quote": "Practise equality by treating others as ourselves and acting in their interests; Practice quality by eliminating discrimination and biased thinking; Practise equality by respecting and tolerating others to foster harmony; Practise equality by developing consensus and civilised behaviour.",
+        "chinese": "通过将他人视为自己并为自己的利益行事来实现平等；通过消除歧视和偏见来实践质量；通过尊重和容忍他人促进和谐来实践平等；通过达成共识和文明行为来实践平等。",
+        "traditional": "通過將他人視為自己並為他們的利益行事來實現平等；通過消除歧視和偏見來實踐質量；通過尊重和容忍他人促進和諧來實踐平等；通過達成共識和文明行為來實踐平等。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 16,
+        "quote": "There is happiness that humans are not able to enjoy, but there is no suffering that humans cannot endure. We should be a person of moral integrity but not a pessimistic good person.",
+        "chinese": "有人类无法享受的幸福，却没有人类无法忍受的痛苦。我们应该成为一个道德正直的人，而不是一个悲观的好人。",
+        "traditional": "有人類無法享受的幸福，卻沒有人類無法忍受的痛苦。我們應該成為一個道德正直的人，而不是一個悲觀的好人。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 17,
+        "quote": "When a country's politics are clean and transparent, there will be no bribery and corruption. When all races in the world can accommodate each other, there will be no ethnic disputes.",
+        "chinese": "一个国家的政治干净透明时，就不会有贿赂和腐败。当世界上所有种族都能相互容纳时，就不会发生种族纠纷。",
+        "traditional": "當一個國家的政治乾淨透明時，就不會有賄賂和腐敗。當世界上所有種族都能相互容納時，就不會發生種族糾紛。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 18,
+        "quote": "The key to a successful career is harmonious communication. The key to harmonious communication us mutual respect.",
+        "chinese": "成功的职业生涯的关键是和谐的沟通。和谐沟通的关键是我们相互尊重。",
+        "traditional": "成功的職業生涯的關鍵是和諧的溝通。和諧溝通的關鍵是我們相互尊重。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 19,
+        "quote": "Heaven exists wherever we help one another. The Pure Land exists wherever neighbours have mutual respect for each other. Thus, heaven exists at one's home, and the Pure Land exists in one's heart.",
+        "chinese": "只要我们互相帮助，天堂就存在。净土存在于邻居互相尊重的地方。因此，天堂存在于一个人的家中，而净土存在于一个人的心中。",
+        "traditional": "只要我們互相幫助，天堂就存在。淨土存在於鄰居互相尊重的地方。因此，天堂存在於一個人的家中，而淨土存在於一個人的心中。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 20,
+        "quote": "Cherish the words from your mouth. Use compassionate and loving words to calm down tense and violent situations in order to foster peaceful living in society. Cherish the words form you heart. Use wise and heartfelt words to eliminate greed, anger, ignorance and delusion in order to maintain spritual purity and brightness.",
+        "chinese": "珍惜你口中的话。用富有同情心和爱心的话语来缓解紧张和暴力局势，以促进社会和平生活。珍惜你心中的话。用明智和衷心的话语消除贪婪，愤怒，无知和妄想，以保持精神纯洁和明亮。",
+        "traditional": "珍惜你嘴裡的話。用富有同情心和愛心的話語來緩解緊張和暴力局勢，以促進社會和平生活。珍惜你心中的話。用明智和衷心的話語消除貪婪，憤怒，無知和妄想，以保持精神純潔和明亮。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 21,
+        "quote": "Humans have to wake up from their ignorance in order to understand the truth of life. Humans have to refrain from their external cravings in order to seek treasures of the inner mind.",
+        "chinese": "人类必须从他们的无知中醒来，以了解生活的真相。为了寻找内心的宝藏，人类必须避免外在的渴望。",
+        "traditional": "人類必須從無知中醒來，以了解生活的真相。為了獲得內心的寶藏，人類必須避免外在的渴望。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 22,
+        "quote": "Better to admit a mistake than to lie; Better to be blamed than to bear guilt. Better to be blamed than to bear guilt. Better to be at disadvantage than to invite enmity; Better to be useless than to bring harm to the world.",
+        "chinese": "承认错误胜于说谎。被指责比负罪感更好。被指责比负罪感更好。比起敌意更好是处于劣势；没有用总比给世界造成伤害更好。",
+        "traditional": "承認錯誤比說謊更好。被指責比負罪感更好。被指責比負罪感更好。比招敵更勝於處於劣勢；沒有用總比給世界造成傷害更好。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 23,
+        "quote": "Acting in the interests of others without self- interest is the conduct of a bodhisattva; Acting in the interests of others before one's self interest is the act of a sage; Acting in both the intersts of others and oneself is the act of a virtuous person; Acting in self-interest only is the act of a villain.",
+        "chinese": "菩萨的行为是为了他人的利益而没有自身利益的行为。出于他人的利益而为他人的利益行事是圣人的行为。在他人和自己的行为中行事是一个品德高尚的人的行为；出于个人利益行事只是小人的行为。",
+        "traditional": "菩薩的行為是為了他人的利益而沒有自身利益的行為。出於他人的利益而為他人的利益行事是聖人的行為。在他人和自己的行為中行事是一個品德高尚的人的行為；出於私利行事只是小人的行為。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 24,
+        "quote": "Looking at the faults of others is the cause of forming enmity. Looking at the faults of oneself is the foundation of all virtues.",
+        "chinese": "看着别人的缺点是形成仇恨的原因。看着自己的缺点是一切美德的基础。",
+        "traditional": "看著別人的缺點是形成仇恨的原因。看著自己的缺點是一切美德的基礎。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 25,
+        "quote": "One's eyes should be used to reflecting oneself instead of judging others. One's mouth should be used to reviewing oneself instead of criticizing others.",
+        "chinese": "应该用自己的眼睛去反映自己，而不是去评判别人。应该用口口相传而不是批评别人。",
+        "traditional": "應該用自己的眼睛去反映自己，而不是去評判別人。應該用口口相傳而不是批評別人。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 26,
+        "quote": "In the spring time, red flowers and green leaves each look more raidiant with the existence of the other. At night, the moon and stars shining upon each other illustrates the vastness of the universe. As long as we know to tolerate and coordinate, we will realize the world of \"half and half\" is wonderful.",
+        "chinese": "在春天，红色的花朵和绿色的叶子看起来彼此之间更加和谐。到了晚上，月亮和星星互相照耀着整个宇宙。只要我们知道宽容和协调，我们就会意识到“一半半”的世界是美好的。",
+        "traditional": "在春天，紅色的花朵和綠色的葉子看起來彼此之間更加和諧。到了晚上，月亮和星星互相照耀著整個宇宙。只要我們知道寬容和協調，我們就會意識到“一半半”的世界是美好的。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 27,
+        "quote": "The ability to detach from honour and humiliation, slander and praise is liberation; The ability to treat success and failure, gains and losses as unimportant is letting go.",
+        "chinese": "脱离荣誉和屈辱，诽谤和赞美的能力是解放；将成功和失败，得失视为不重要的能力正在放手。",
+        "traditional": "脫離榮譽和屈辱，誹謗和讚美的能力是解放；將成功和失敗，得失視為不重要的能力正在放手。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 28,
+        "quote": "Children are the hope of the family. Teenagers are the future leaders of the country. The Youths are the future pillars of the world, The elders are the role models for the society.",
+        "chinese": "孩子是家庭的希望。青少年是国家的未来领导人。年轻人是世界的未来支柱，长者是社会的榜样。",
+        "traditional": "孩子是家庭的希望。青少年是國家的未來領導人。年輕人是世界的未來支柱，長者是社會的榜樣。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 29,
+        "quote": "Build bridges, roads and develop land. Construction embodies endless hope and expectation. Choose wise, capable leaders and restructure the administration. Revolutionary change embodies endless hope and expectation.",
+        "chinese": "修建桥梁，道路和开发土地。建设体现了无限的希望和期望。选择明智，有能力的领导者，并重组管理部门。革命性变化体现了无尽的希望和期望。",
+        "traditional": "修建橋樑，道路和開發土地。建設體現了無限的希望和期望。選擇明智，有能力的領導者，並重組管理部門。革命性變化體現了無盡的希望和期望。",
+        "type": "Society" 
+    },
+    {
+        "month": "June",
+        "day": 30,
+        "quote": "Give others joy with kind words. Enlighten others with words of wisdom. Provide refuge with service and encouragement. Give others confidence through working together.",
+        "chinese": "用友善的话语给别人快乐。用智慧的话语启发别人。为庇护提供服务和鼓励。通过共同努力给予他人信心。",
+        "traditional": "用友善的話語給別人快樂。用智慧的話語啟發別人。為庇護提供服務和鼓勵。通過共同努力給予他人信心。",
+        "type": "Society" 
+    },
+    {
+        "month": "Jul",
+        "day": 1,
+        "quote": "Contentment is like a magic stone; everything it touches changes to gold - happiness. Gratitude is like a fairy's wand; everywhere it touches changes into the Pure Land - happiness.",
+        "chinese": "知足就像一块魔石。它接触到的一切都变成了黄金-幸福。感谢就像仙女的魔杖。它触及的每一​​个地方都变成了净土-幸福。",
+        "traditional": "知足就像一塊魔石。它接觸到的一切都變成了黃金-幸福。感謝就像仙女的魔杖。它觸及的每一個地方都變成了淨土-幸福。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 2,
+        "quote": "The worldly life deems possession to be happiness; possession is a baggage and a burden. Beyond the worldly life sees emptiness as happiness; emptiness is boundless and limitless.",
+        "chinese": "世俗生活认为拥有是幸福；拥有是一个包和和负担。超越世俗的生活将空虚视为幸福；空虚是无边无际的。",
+        "traditional": "世俗生活認為擁有是幸福；擁有是一個包和和負擔。超越世俗的生活將空虛視為幸福；空虛是無邊無際的。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 3,
+        "quote": "When happiness is in the heart, everywhere looks pleasing to both the eye and the mind. When Buddha Dharma is in the heart, the world is full of virtuous people and good affinities.",
+        "chinese": "当幸福在心中时，到处看起来都令人愉悦。当佛法在心中时，世界充满了贤良的人和良好的亲和力。",
+        "traditional": "當幸福在心中時，到處看起來都令人愉悅。當佛法在心中時，世界充滿了賢良的人和良好的親和力。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 4,
+        "quote": "Being without worry is the best form of happiness; Excessive desire is the greatest suffering; Contentment is the greatest wealth; Greed is the most extreme poverty.",
+        "chinese": "无忧是幸福的最佳形式。过度的欲望是最大的痛苦。知足是最大的财富。贪婪是最极端的贫困。",
+        "traditional": "無憂是幸福的最佳形式。過度的慾望是最大的痛苦。知足是最大的財富。貪婪是最極端的貧困。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 5,
+        "quote": "The person with excessive desires is never contented, and that discontentment courts disaster. The person who is contented is always happy; and that happiness brings peace.",
+        "chinese": "渴望过多的人永远不会满足，而这种不满会导致灾难。知足的人总是快乐的。那幸福带来和平。",
+        "traditional": "渴望過多的人永遠不會滿足，而這種不滿會導致災難。知足的人總是快樂的。那幸福帶來和平。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 6,
+        "quote": "A heart filled with worry and ignorance is hell. A heart filled with bodhi and true belief is heaven. A heart filled with anxiety and suffering is hell. A heart filled with peace and happiness is heaven.",
+        "chinese": "充满忧虑和无知的心是地狱。一颗充满菩提和真正信仰的心就是天堂。充满焦虑和痛苦的心是地狱。充满和平与幸福的心就是天堂。",
+        "traditional": "充滿憂慮和無知的心是地獄。一顆充滿菩提和真正信仰的心就是天堂。充滿焦慮和痛苦的心是地獄。充滿和平與幸福的心就是天堂。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 7,
+        "quote": "An angry thought is like a wild fire, capable of buring away a whole forest of merits accumulated through many kalpas. A single thought of dispute between self and others is enough to wash away all amassed virtuous thoughts.",
+        "chinese": "愤怒的想法就像野火一样，能够燃烧掉整个因许多卡尔帕斯而积累的功绩森林。自我与他人之间发生争执的单一思想就足以冲走所有积聚的良性思想。",
+        "traditional": "憤怒的想法就像野火一樣，能夠燃燒掉整個因許多卡爾帕斯而積累的功績森林。自我與他人之間發生爭執的單一思想就足以沖走所有積聚的良性思想。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 8,
+        "quote": "Slow your temper by half a beat and the argument will end after one round. Greet others with the three good phrases and always speak with a smile.",
+        "chinese": "脾气暴躁半秒钟，争论将在一轮之后结束。用三个好短语向别人打招呼，并总是带着微笑说话。",
+        "traditional": "脾氣暴躁半秒鐘，爭論將在一輪之後結束。用三個好短語向別人打招呼，並總是帶著微笑說話。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 9,
+        "quote": "To endure a moment's anger increases limitless meritorious wealth. To have a virtuous thought eliminates limitless bad karma.",
+        "chinese": "忍受片刻的愤怒会增加无数的功绩。有一个善良的思想可以消除无限的业障。",
+        "traditional": "忍受片刻的憤怒會增加無數的功績。有一個善良的思想可以消除無限的業障。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 10,
+        "quote": "To shoulder a difficult task, one should have strength and no anger. To deal with a difficult person, one should have skills and no complaints. To walk a difficult path, one should have faith and no fear. To endure the unbearable, one should have tolerance abd no blame.",
+        "chinese": "承担一项艰巨的任务，应该有力量而不生气。与一个困难的人打交道，应该有技巧，没有怨言。要走一条艰难的道路，一个人应该有信心而没有恐惧。为了忍受无法忍受的人，应该有宽容之心，不要怪罪。",
+        "traditional": "肩負一項艱鉅的任務，應該有力量而不生氣。與一個困難的人打交道，一個人應該有技巧，沒有怨言。要走一條艱難的道路，一個人應該有信心而沒有恐懼。為了忍受無法忍受的人，應該有寬容之心，不要怪罪。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 11,
+        "quote": "Words rashly spoken to flaunt a moment's triumph cannot produce a good outcome. Reasonable words spoken after deliberation are definitely tactful and harmonious.",
+        "chinese": "轻率地说出一瞬间的胜利的话语不会产生好的结果。商议后说的合理的话肯定是机智和和谐的。",
+        "traditional": "輕率地說出一瞬間的勝利的話語不會產生好的結果。商議後說的合理的話肯定是機智和和諧的。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 12,
+        "quote": "True affection should show understanding and sympathy; compromise in the interest of all. True reason should strive for the truth of the matter; consider the interest of the whole.",
+        "chinese": "真正的情感应该表现出理解和同情。为了所有人的利益而妥协。真正的理由应该争取事情的真相；考虑整体利益。",
+        "traditional": "真正的情感應該表現出理解和同情；為了所有人的利益而妥協。真正的理由應該爭取事情的真相；考慮整體利益。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 13,
+        "quote": "Do not listen to disputes instead of honest talk. Do not listen to malicious words instead of kind expressions. Do not listen to miscellaneous words instead of the Dharma. Do not listen to gossip instead of true principles.",
+        "chinese": "不要听争执，不要听老话。不要听恶意的单词，而不是善意的表达。不要听其他单词而不是佛法。不要听八卦而不是真正的原则。",
+        "traditional": "不要聽爭執而不是老實說話。不要聽惡意的單詞，而不是善意的表達。不要聽其他單詞而不是佛法。不要聽八卦而不是真正的原則。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 14,
+        "quote": "Being able to endure suffering is being able to shoulder great responsibility. Being able to control anger is being able to plan important matters with others.",
+        "chinese": "能够忍受痛苦就是能够承担重大责任。能够控制愤怒就是能够与他人计划重要的事情。",
+        "traditional": "能夠忍受痛苦就是能夠承擔重大責任。能夠控制憤怒就是能夠與他人計劃重要的事情。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 15,
+        "quote": "Change bad temperament into ambition, Change spiritedness into talent, Change resentment into amiability, Change anger into fighting spirit.",
+        "chinese": "将不良气质变为野心，将热情气化为才能，将怨恨情绪化为和可亲，将愤怒情绪化为战斗精神。",
+        "traditional": "將不良氣質轉變為野心，將熱情轉變為才能，將怨恨轉變為和可親，將憤怒轉變為鬥志。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 16,
+        "quote": "To make a slight correction in a bad habit could greatly enhance your thoughts on cultivation. To endure some worries could lead to ascertain and experience the bodhi.",
+        "chinese": "改掉不良习惯可以大大增强您的修养思想。为了忍受一些担心，可能会导致确定和体验菩提。",
+        "traditional": "改掉不良習慣可以大大增強您的修養思想。為了忍受一些擔心，可能會導致確定和體驗菩提。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 17,
+        "quote": "Our conduct should be upright and lofty like a mountain. Our handling of matters should be east and smooth like flowing water.",
+        "chinese": "我们的举止应该像山一样挺拔而崇高。我们对事物的处理应像流水一样向东且平稳。",
+        "traditional": "我們的舉止應該像山一樣挺拔而崇高。我們對事物的處理應像流水一樣向東且平穩。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 18,
+        "quote": "Bowing to the Buddha can overcome arrogance. Chanting like Buddha's name can subdue delusive thoughts. Doing kind deeds can cease greed. Tolerance can curve anger and hatred.",
+        "chinese": "向佛鞠躬可以克服自大。像佛陀的名字那样高声诵读可以制服妄想。做善事可以制止贪婪。宽容可以改变愤怒和仇恨。",
+        "traditional": "向佛鞠躬可以克服自大。像佛陀的名字那樣高聲誦讀可以製服妄想。做善事可以製止貪婪。寬容可以改變憤怒和仇恨。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 19,
+        "quote": "Progress can only be achieved in calmness and harmony. Human affinity can only be fostered through service to others.",
+        "chinese": "只有在平静与和谐中才能取得进步。只有通过为他人服务才能建立人与人之间的亲和力。",
+        "traditional": "只有在平靜與和諧中才能取得進步。只有通過為他人服務才能建立人與人之間的親和力。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 20,
+        "quote": "For self-improvement, one should nurture spirit and energy in place of resentment. For successful undertakings, one should be calm and polite instead of being emotional.",
+        "chinese": "为了自我完善，应该培养精神和精力代替怨恨。对于成功的事业，应该保持冷静和礼貌，而不是情绪激动。",
+        "traditional": "為了自我完善，應該培養精神和精力代替怨恨。對於成功的事業，應該保持冷靜和禮貌，而不是情緒激動。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 21,
+        "quote": "Laughter can prevent illness. Happiness can dispel worries. Loving kindness can bring joy. Compassion can alleviate suffering.",
+        "chinese": "笑声可以预防疾病。幸福可以消除后顾之忧。充满爱心可以带来快乐。同情可以减轻痛苦。",
+        "traditional": "笑聲可以預防疾病。幸福可以消除後顧之憂。充滿愛心可以帶來快樂。同情可以減輕痛苦。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 22,
+        "quote": "Be the wealthy owner of heart and soul and unworried about lack of material possessions. Be the master of carefree life and unafraid of poverty abd sickness.",
+        "chinese": "成为心灵的富裕所有者，不用担心缺乏物质财富。成为无忧无虑生活和不惧贫穷和疾病的主人。",
+        "traditional": "成為心靈的富裕所有者，並為缺乏物質財產而擔心。成為無憂無慮生活和不懼貧窮和疾病的主人。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 23,
+        "quote": "We would rather observe the precepts little by little, than to totally lose sight of cultivation.",
+        "chinese": "我们宁愿一点一点地遵守这些戒律，也不愿完全忽略修炼。",
+        "traditional": "我們寧願一點一點地遵守這些戒律，也不願完全忽略修煉。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 24,
+        "quote": "Give others happiness anywhere. Give others confidence anytime. Render your services to others readily. Provide convenience to others befittingly.",
+        "chinese": "在任何地方给别人幸福。随时给别人信心。随时向他人提供您的服务。适当地为他人提供便利。",
+        "traditional": "在任何地方給別人幸福。隨時給別人信心。隨時向他人提供您的服務。適當地為他人提供便利。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 25,
+        "quote": "Our conduct in life should be like the flow of water, when meeting a mountain water turns; when meeting the shore water turns; when meeting a stone water turns. In meeting obstacles, I turn.",
+        "chinese": "当遇到山水转弯时，我们的生活行为应该像水流一样；遇见岸边水流时；遇见石水转弯。在遇到障碍时，我转身。",
+        "traditional": "當遇到山水轉彎時，我們的生活行為應該像水流一樣；遇見岸邊水流時；遇見石水轉彎。在遇到障礙時，我轉身。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 26,
+        "quote": "Make good use the Buddha Dharma in order to solve problems. Follow the teaching of the Buddha Dharma to lead a carefree life.",
+        "chinese": "善用佛法来解决问题。跟随佛法的教导，过着无忧无虑的生活。",
+        "traditional": "善用佛法來解決問題。跟隨佛法的教導，過著無憂無慮的生活。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 27,
+        "quote": "In all matters, follow affinity to be at ease. In all matters, let go to feel relief.",
+        "chinese": "在所有问题上，都应遵循亲和力。在所有事情上，让我们放心。",
+        "traditional": "在所有問題上，都要遵循親和力。在所有事情上，讓我們放心。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 28,
+        "quote": "Harmonious emption maintains a good mood. A calm heart keeps worries away. A humble character creates good affinity. Overcome self to be happy without worries.",
+        "chinese": "空荡荡的和谐保持心情愉快。镇定的心不需担心。谦虚的性格会产生良好的亲和力。克服自我，快乐无忧。",
+        "traditional": "空蕩蕩的和諧保持良好的心情。鎮定的心不需擔心。謙虛的性格會產生良好的親和力。克服自己變得快樂而無後顧之憂。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 29,
+        "quote": "A generous heart is extensive. A generous heart is rich. A generous heart is accommodating. A generous heart is magnanimous.",
+        "chinese": "慷慨的心是广泛的。大方的心是丰富的。宽容的心正在融洽。慷慨的心是坦荡的。",
+        "traditional": "慷慨的心是廣泛的。大方的心是豐富的。寬容的心正在融洽。慷慨的心是坦蕩的。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 30,
+        "quote": "Ignorance and delusion originated from our grasping nature; so to cultivate the Dharma one should begin with cultivation \"no ego\". Let go of the body and mind to achieve \"no ego\" and the light of the true principle will shine in your heart.",
+        "chinese": "无知和妄想源于我们的把握本质；因此，培养佛法应该从“无我”开始。放开身心，实现“没有自我”，真正原则的光芒将在您的心中闪耀。",
+        "traditional": "無知和妄想源於我們的把握本質；因此，培養佛法應該從“無我”開始。放開身心，實現“沒有自我”，真正原則的光芒將在您的心中閃耀。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Jul",
+        "day": 31,
+        "quote": "Say more good words; always do good deeds; Constantly introspect; always be happy.",
+        "chinese": "多说些好话；永远做好事；不断自省；永远快乐。",
+        "traditional": "多說些好話；永遠做好事；不斷自省；永遠快樂。",
+        "type": "Emotion" 
+    },
+    {
+        "month": "Aug",
+        "day": 1,
+        "quote": "One who cherishes life regrets that it is too short. One who wastes life complains that it is too long. One who understands life knows that it is suffering. One who masters life is not afraid of suffering and impermanence.",
+        "chinese": "珍惜生命的人后悔生命太短。浪费生命的人抱怨生命太长。一个了解生命的人知道生命正在受苦。掌握生活的人不怕苦难和无常。",
+        "traditional": "珍惜生命的人後悔生命太短。浪費生命的人抱怨生命太長。一個了解生命的人知道生命正在受苦。掌握生活的人不怕苦難和無常。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 2,
+        "quote": "To value our good fortune is to treasure your present. To establish extensive good affinity is to enrich our future.",
+        "chinese": "珍视我们的好运就是珍惜您的礼物。建立广泛的良好亲和力是丰富我们的未来。",
+        "traditional": "珍視我們的好運就是珍惜您的禮物。建立廣泛的良好親和力是豐富我們的未來。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 3,
+        "quote": "Cultivation exists only with a moral life. Achievements exist only from worthy deeds.",
+        "chinese": "修养只存在于道德生活中。成就仅来自有价值的行为。",
+        "traditional": "修養只存在於道德生活中。成就僅來自有價值的行為。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 4,
+        "quote": "Knowing how to make good use of time, we will manage life. Knowing how to grasp time, we will embrace life.",
+        "chinese": "知道如何善用时间，我们将管理生活。知道如何把握时间，我们将拥抱生活。",
+        "traditional": "知道如何善用時間，我們將管理生活。知道如何把握時間，我們將擁抱生活。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 5,
+        "quote": "Time is a true asset, knowledge is true wealth. Wisdom is true strength, good health is true joy.",
+        "chinese": "时间是真正的财富，知识是真正的财富。智慧是真正的力量，健康是真正的快乐。",
+        "traditional": "時間是真正的財富，知識是真正的財富。智慧是真正的力量，健康是真正的快樂。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 6,
+        "quote": "Good health refers mainly to the complete health of body and mind, not brute physical strength; Longevity refers mainly to the continuity of wisdom, not to the actual life span.",
+        "chinese": "良好的健康主要是指身心的完全健康，而不是粗鲁的体力；长寿主要是指智慧的连续性，而不是实际寿命。",
+        "traditional": "良好的健康主要是指身心的完全健康，而不是粗魯的體力；長壽主要是指智慧的連續性，而不是實際壽命。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 7,
+        "quote": "In our life-long journey, we need not worry if we are slow; we just should not stay still. In our life-long career; we need not worry if we are not the best; we just should not be without ambition.",
+        "chinese": "在我们的终生旅程中，我们不必担心自己是否慢。我们只是不应该停滞不前。在我们的终身职业中；如果我们不是最好的，我们不必担心；我们只是不应该没有野心。",
+        "traditional": "在我們的終生旅程中，我們不必擔心自己是否慢。我們只是不應該停滯不前。在我們的終身職業中；如果我們不是最好的，我們不必擔心；我們只是不應該沒有野心。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 8,
+        "quote": "Spring is not about the season, but about the state of mind. Life is not about the body, but about the mind. Old age is not measured by years, but by the mind-set. Life is not about how long we live, but how we live it.",
+        "chinese": "春天不是季节，而是精神状态。生命与身体无关，而与思想有关。年龄不是用岁数来衡量，而是用心态来衡量。生活不是我们要活多久，而是我们如何活下去。",
+        "traditional": "春天不是季節，而是精神狀態。生命與身體無關，而與思想有關。年齡不是用歲數來衡量，而是用心態來衡量。生活不是我們要活多久，而是我們如何活下去。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 9,
+        "quote": "Physical illness is to be treated by a doctor. Mental illness is to be treated by oneself.",
+        "chinese": "身体疾病应由医生治疗。精神疾病应自行治疗。",
+        "traditional": "身體疾病應由醫生治療。精神疾病應自行治療。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 10,
+        "quote": "Good medicine though bitter, is beneficial to the body. Calmness and being focused is benificial to our thoughts. Good advice though harsh to the ear, is beneficial to cultivation. Pure thoughts with no desire are beneficial to our heart.",
+        "chinese": "良药虽苦，但对身体有益。冷静和专心有益于我们的思想。好的建议虽然对耳朵不刺耳，但却有益于耕作。没有欲望的纯洁思想对我们的心脏有益。",
+        "traditional": "良藥雖苦，但對身體有益。冷靜和專心有益於我們的思想。好的建議雖然對耳朵不刺耳，但卻有益於培養。沒有慾望的純潔思想對我們的心臟有益。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 11,
+        "quote": "Having a bowl of broth full of compassion is far better than drinking a bowl of ginseng soup. Drinking a cup of clear, calming tea is far better than drinking precious rare juice. Eating a mouthful of fragrant vegetarian food is far better than dining with meat and wine. Having a pure thought far exceeds a table of sumptuous dinner.",
+        "chinese": "一碗充满同情心的肉汤比喝一碗人参汤要好得多。喝一杯清澈，镇静的茶比喝珍贵的稀有果汁要好得多。吃一口芬芳的素食远胜于用肉和酒用餐。拥有纯粹的思想远远超过了丰盛的晚餐。",
+        "traditional": "一碗充滿同情心的肉湯比喝一碗人參湯要好得多。喝一杯清澈，鎮靜的茶比喝珍貴的稀有果汁要好得多。吃一口芬芳的素食遠勝於用肉和酒用餐。擁有純粹的思想遠遠超過了豐盛的晚餐。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 12,
+        "quote": "Good habits should be nurtured diligently. Bad habits should be rectified diligently.",
+        "chinese": "应当养成良好的习惯。应认真纠正不良习惯。",
+        "traditional": "應當養成良好的習慣。應認真糾正不良習慣。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 13,
+        "quote": "The key to meditation is forgetting time and space. The key to chanting is saying and thinking just the Buddha's name. The key to sleeping is putting aside all worries. The key to spreading the teachings is compassion and affinity.",
+        "chinese": "冥想的关键是忘记时间和空间。念诵的关键是说和思考佛陀的名字。睡觉的关键是消除所有担忧。传播教义的关键是同情心和亲和力。",
+        "traditional": "冥想的關鍵是忘記時間和空間。念誦的關鍵是說和思考佛陀的名字。睡覺的關鍵是消除所有擔憂。傳播教義的關鍵是同情心和親和力。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 14,
+        "quote": "Being without greed or sexual misconduct cultivates merits; A pure and simple life promotes longevity; Less food and less anger promote vitality; Being without desire or self-interest cultivates energy.",
+        "chinese": "没有贪婪或性行为不端会产生优点；纯朴的生活可以延年益寿；更少的食物和更少的愤怒促进活力；没有欲望或自利的存在会培养能量。",
+        "traditional": "沒有貪婪或性行為不端會產生優點；純樸的生活可以延年益壽；更少的食物和更少的憤怒促進活力；沒有慾望或自私自利會產生能量。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 15,
+        "quote": "One day's merit is reaped from one day's cultivation, Nothing is reaped form one day's idleness, True cultivation is in daily practice, The Buddha's way is intrinsically part of our life.",
+        "chinese": "一天的修养可以收获一天的功绩，一天的闲暇可以收获任何收获，日常修炼中可以收获真正的修养，佛陀的方式本质上是我们生活的一部分。",
+        "traditional": "一天的修養可以收穫一天的功績，一天的閒暇可以收穫任何收穫，日常實踐中可以收穫真正的修養，佛陀的方式本質上是我們生活的一部分。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 16,
+        "quote": "The secret to good health is to eat less abd walk more. The secret to good relationship is \"I am wrong, you are right.\" The secret to cultivation is \"Do it yourself.\" The secret to Dharma joy is to let go and be at ease.",
+        "chinese": "身体健康的秘诀是少吃而多走。良好关系的秘诀是“我错了，你是对的”。修炼的秘诀是“自己动手”。佛法喜悦的秘诀是放开手心。",
+        "traditional": "身體健康的秘訣是少吃而多走。良好關係的秘訣是“我錯了，你是對的。”修養的秘訣是“自己動手。”達摩喜悅的秘訣是放手並放輕鬆。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 17,
+        "quote": "Aspire to eat, you will eat with satisfaction. Aspire to sleep, you will sleep soundly. Aspire to walk, you will go far. Aspire to serve, you will serve enthusiastically.",
+        "chinese": "渴望吃东西，您会满意地吃东西。渴望入睡，您会安然入睡。渴望走路，您将走得更远。渴望服务，您将热情服务。",
+        "traditional": "渴望吃東西，您會滿意地吃東西。渴望入睡，您會安然入睡。渴望走路，您將走得更遠。渴望服務，您將熱情服務。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 18,
+        "quote": "The way to keep in good health is to have light meals made up of bland and unrefined food. The way to conduct oneself in society is to be willing to work hard, endure disadvantage, and bear hardship.",
+        "chinese": "保持健康的方法是让便餐由平淡无味的食物制成。在社会上做人的方式是要努力工作，忍受不利处境和吃苦。",
+        "traditional": "保持健康的方法是，以淡淡的食物和未精製的食物製成便餐。在社會上做人的方式是要努力工作，忍受不利處境和吃苦。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 19,
+        "quote": "If you are diligent, naturally you have more time. If you are willing to move, naturally you have more extensive space. If you can endure more hardship, naturally your success is greater.",
+        "chinese": "如果您勤奋，自然就会有更多的时间。如果您愿意搬家，那么您自然就有更大的空间。如果您可以忍受更多的艰辛，那么您的成功自然就更大。",
+        "traditional": "如果您勤奮，自然就會有更多的時間。如果您願意搬家，那麼您自然就有更大的空間。如果您可以忍受更多的艱辛，那麼您的成功自然就更大。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 20,
+        "quote": "Be grateful for past causes and conditions and treasure the present effect; Build present causes and conditions to nurture future effects.",
+        "chinese": "感谢过去的原因和条件，珍惜当前的影响；建立当前的原因和条件以培育未来的影响。",
+        "traditional": "感謝過去的原因和條件，珍惜當前的影響；建立當前的原因和條件以培育未來的影響。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 21,
+        "quote": "Where there is life, there is hope. Where there is life, there is strength.",
+        "chinese": "有生命的地方就有希望。有生命的地方就有力量。",
+        "traditional": "有生命的地方就有希望。有生命的地方就有力量。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 22,
+        "quote": "Protect life and do not kill, and naturally you will have longevity. Donate and do not steal, and natually you will be wealthy. Do not commit lustful misconduct, and naturally there will be harmony. Keep your promises and do not tell lies, and naturally you will have good reputation.",
+        "chinese": "保护生命，不杀人，自然就会长寿。捐赠并且不要偷，自然地，您将变得富有。不要犯有恶意的不端行为，自然就会和谐。信守诺言，不撒谎，自然就会有良好的声誉。",
+        "traditional": "保護生命，不殺人，自然就會長壽。捐贈，不要偷，自然會發財。不要犯有惡意的不端行為，自然就會和諧。信守諾言，不撒謊，自然就會有良好的聲譽。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 23,
+        "quote": "To respect the freedom of others is to respect the value of life; To respect the common possessions is to respect the natural vitality of life.",
+        "chinese": "尊重他人的自由就是尊重生命的价值。尊重共同财产就是尊重生命的自然生命力。",
+        "traditional": "尊重他人的自由就是尊重生命的價值。尊重共同財產就是尊重生命的自然生命力。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 24,
+        "quote": "Environmental conservation is to love and protect our earth; Without the earth, how do we survive? Protecting living things is to show respect for life; Without life, everything is meaningless.",
+        "chinese": "环境保护就是爱护地球。没有地球，我们如何生存？保护生物是对生命的尊重。没有生命，一切都是毫无意义的。",
+        "traditional": "環境保護就是愛護地球。沒有地球，我們如何生存？保護生物是對生命的尊重。沒有生命，一切都是毫無意義的。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 25,
+        "quote": "When you have a kind heart, the saints and sages note it, and cause and effect recieve it. When you have an ill will, the Mara catches it, and karmic retribution finds it.",
+        "chinese": "当你有一颗善良的心时，圣徒和圣贤就注意到它，并因果得到它。当您有恶意时，马拉会抓住它，业力报应找到它。",
+        "traditional": "當你有一顆善良的心時，聖徒和聖賢就注意到它，並因果得到它。當您有惡意時，馬拉會抓住它，業力報應找到它。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 26,
+        "quote": "As the physical body is made of four elements and five aggregates, how can we be free of sickness? The cycle of impermanence: birth, aging, sickness and death connot be prevented. To be free of sickness, realize the Dharma body. To realize impermanence, eradicate delusion and go back to the truth.",
+        "chinese": "由于身体是由四个元素和五个聚合组成的，我们如何才能摆脱疾病呢？无常的循环：无法避免出生，衰老，疾病和死亡。要摆脱疾病，实现佛法身体。要实现无常，消除妄想并回到真相。",
+        "traditional": "由於身體是由四個元素和五個集合體組成的，我們如何擺脫疾病呢？無常的循環：無法避免出生，衰老，疾病和死亡。要擺脫疾病，實現佛法身體。要實現無常，消除妄想並回到真相。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 27,
+        "quote": "Realising impermanence will change ourselves. Realising all troubles are only delusions; Realising birth and death is to bravely escape transmigration.",
+        "chinese": "实现无常会改变自己。意识到所有的麻烦只是幻想。实现生与死是为了勇敢地逃避移民。",
+        "traditional": "實現無常會改變自己。意識到所有的麻煩只是妄想；實現生與死是為了勇敢地逃避移民。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 28,
+        "quote": "Death is the begining of birth; birth is preperation for death. Birth is not truly birth; death is not truly death. Birth arises from acuses and conditions; death arises from termination of causes and conditions. Birth and death have no existence.",
+        "chinese": "死亡是诞生的开始；出生是死的准备。出生并不是真正的出生。死亡不是真正的死亡。出生是由各种情况引起的；死亡源于因果关系的终止。没有生与死。",
+        "traditional": "是死的準備。出生並不是真正的出生。死亡不是真正的死亡。出生是由各種情況引起的；死亡源於因果關係的終止。沒有生與死。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 29,
+        "quote": "The transition of life is like fire burning from one log to another. The fire of life will never extinguish. The change of birth and death is like moving from one house to another. The owner of the life remains unchanged.",
+        "chinese": "生命的过渡就像大火从一根木头燃烧到另一根木头。生命之火将永不熄灭。生与死的变化就像从一所房子移到另一所房子。生命的所有者保持不变。",
+        "traditional": "生命的過渡就像大火從一根木頭燃燒到另一根木頭。生命之火將永不熄滅。生與死的變化就像從一所房子移到另一所房子。生命的所有者保持不變。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 30,
+        "quote": "A life with suffering and happiness is rich. A life with success and failure is reasonable. A life with gains and loss is fair. A life with birth and death is natural.",
+        "chinese": "痛苦和幸福的生活是丰富的。成功与失败的生活是合理的。有得失的生活是公平的。生与死的生活是自然的。",
+        "traditional": "充滿苦難和幸福的生活是豐富的。成功與失敗的生活是合理的。有得失的生活是公平的。生與死的生活是自然的。",
+        "type": "Life" 
+    },
+    {
+        "month": "Aug",
+        "day": 31,
+        "quote": "In dealing with feelings; if there is no attachment. there is no sacrifice. In dealing with the five desires; if there no greed, there is no rejection. In dealing with the world; if there is no hatred there is no demand, In dealing with birth and death; if there is no fear, there is no loss.",
+        "chinese": "处理感情如果没有附件。没有牺牲。在处理五个愿望时；如果没有贪婪，就不会拒绝。与世界打交道如果没有仇恨，就没有要求，处理生与死；如果没有恐惧，就没有损失。",
+        "traditional": "處理感情如果沒有附件。沒有犧牲。處理五個願望；如果沒有貪婪，就不會拒絕。與世界打交道如果沒有仇恨，就沒有要求，處理生與死；如果沒有恐懼，就沒有損失。",
+        "type": "Life"
+    },
+    {
+        "month": "Sep",
+        "day": 1,
+        "quote": "In self-contemplation, seek within oneself. In self-renewal, purify self continuously. In self-practice, do not search externaly. In self-detachment, do not differentiate.",
+        "chinese": "在自我思考中，寻求自我。在自我更新中，不断净化自己。在自我练习中，请勿进行外部搜索。在自我超脱时，不要区分。",
+        "traditional": "在自我思考中，尋求自我。在自我更新中，不斷淨化自己。在自我練習中，請勿進行外部搜索。在自我超脫時，不要區分。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 2,
+        "quote": "Aspiring to do good deeds diligently can increase blessings and wisdom as well as forming extensive good conditions. Leading a simple and thrifty life can enhance wealth as well as good virtues.",
+        "chinese": "努力地做善事可以增加祝福和智慧，也可以形成广泛的良好条件。过着简朴节俭的生活可以增进财富和美德。",
+        "traditional": "努力地做善事可以增加祝福和智慧，也可以形成廣泛的良好條件。過著簡樸節儉的生活可以增進財富和美德。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 3,
+        "quote": "Realisation begins from a change in concept, and leads to transformation in the quality of life. Confirmation begins from personal experience in cultivation, and results in the fusion of the heart and the Buddha nature.",
+        "chinese": "实现是从观念的转变开始的，并导致生活质量的转变。确认始于个人的耕作经验，并导致心脏与佛陀自然的融合。",
+        "traditional": "實現是從觀念的轉變開始的，並導致生活質量的轉變。確認從個人的修煉經驗開始，並導致心臟和佛陀自然的融合。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 4,
+        "quote": "Keeping busy can enhance mental health. Keeping busy can nurture good causes and conditions. Keeping busy can express the vitality of life. Keeping busy can enhance the value of life.",
+        "chinese": "保持忙碌可以增强心理健康。保持忙碌可以孕育良好的理由和条件。保持忙碌可以表达生活的活力。保持忙碌可以提高生活价值。",
+        "traditional": "保持忙碌可以增強心理健康。保持忙碌可以孕育良好的理由和條件。保持忙碌可以表達生活的活力。保持忙碌可以提高生活價值。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 5,
+        "quote": "The best way to solve a problem is to work hard in overcoming the problem. The best way to achieve happiness is to sincerely make others happy.",
+        "chinese": "解决问题的最佳方法是努力克服问题。实现幸福的最好方法是真诚地使他人幸福。",
+        "traditional": "解決問題的最佳方法是努力克服問題。實現幸福的最好方法是真誠地使他人幸福。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 6,
+        "quote": "We are our own artist, painting the world of our own life. We are our own engineer, moulding our own good image.",
+        "chinese": "我们是我们自己的艺术家，描绘着我们自己的生活世界。我们是我们自己的工程师，塑造了我们自己的良好形象。",
+        "traditional": "我們是我們自己的藝術家，描繪著我們自己的生活世界。我們是我們自己的工程師，塑造了我們自己的良好形象。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 7,
+        "quote": "A good heart sees truth, goodness, and beauty in everything. An evil heart displays greed, hatred, and ignorance in everything.",
+        "chinese": "一颗善良的心会在所有事物中看到真理，善良和美丽。邪恶的心在一切中都表现出贪婪，仇恨和无知。",
+        "traditional": "一顆善良的心會在所有事物中看到真理，善良和美麗。邪惡的心在一切中都表現出貪婪，仇恨和無知。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 8,
+        "quote": "The universe conforming to nature sprouts life. All beings conforming to nature will grow. An actions conforming to nature will be successfully completed. a mind conforming to nature is benevolent and beautiful.",
+        "chinese": "顺应自然的宇宙发芽了生命。符合自然的一切生物都会成长。符合自然的行动将成功完成。顺应自然的思想是仁慈而美丽的。",
+        "traditional": "順應自然的宇宙發芽了生命。符合自然的一切生物都會成長。符合自然的行動將成功完成。順應自然的思想是仁慈而美麗的。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 9,
+        "quote": "Seeing others with an amiable face. you will have harmony. Getting along with others with humility, you will be held in high esteem. Treating others with a respectful heart, you will be respected. Interacting with others using praise, you will have affinity with others.",
+        "chinese": "看到别人和与可亲。您将拥有和谐。与其他人保持谦卑相处，您将受到高度尊重。以尊重的心对待他人，您将受到尊重。通过赞美与他人互动，您将与他人保持亲和力。",
+        "traditional": "看到別人和一個可親。您將擁有和諧。與其他人保持謙卑相處，您將受到高度尊重。以尊重的心對待他人，您將受到尊重。通過讚美與他人互動，您將與他人保持親和力。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 10,
+        "quote": "Truth comes from awakening the mind. Kindness comes from consideration. Good temperament comes from wisdom. Beauty comes from compassion.",
+        "chinese": "真理来自唤醒思想。善良来自考虑。良好的气质源于智慧。美来自同情。",
+        "traditional": "真理來自喚醒思想。善良來自考慮。良好的氣質源於智慧。美來自同情。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 11,
+        "quote": "May we conduct ourselves with moral righteousness and complete our tasks with quality. May we conduct our business with professional ethics and live our life with refined taste.",
+        "chinese": "愿我们以道德公义行事，以质量完成我们的任务。愿我们以职业道德开展业务，并以高雅的品味生活。",
+        "traditional": "願我們以道德公義行事，以質量完成我們的任務。願我們以職業道德開展業務，並以高雅的品味生活。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 12,
+        "quote": "Having people in mind is the basis to achieve virtue, compose worthy writings, and establish merit. Having the Buddha in mind is the way to cultivate truth, kindness, and beauty.",
+        "chinese": "铭记人心是实现美德，撰写有价值的著作并树立功绩的基础。念佛是培养真理，仁慈和美丽的方式",
+        "traditional": "銘記人心是實現美德，撰寫有價值的著作並樹立功績的基礎。念佛是培養真理，仁慈和美麗的方式。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 13,
+        "quote": "A smile is the most beautiful colour in the world. Praise is the most beautiful sound in the world.",
+        "chinese": "微笑是世界上最美丽的色彩。赞美是世界上最美丽的声音。",
+        "traditional": "微笑是世界上最美麗的色彩。讚美是世界上最美麗的聲音。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 14,
+        "quote": "Those who value wisdom are engaged more in cultural values than in monetary benefits. Those who pursue benevolence are engaged more in ethics and righteousness than in their own interests. Those who appreciate courteousness gain more kind-hearted friends than material wealth. Those who seek the Way gain more Dharma joy than worldly pleasure.",
+        "chinese": "重视智慧的人更多地是在文化价值上而不是金钱上受益。追求仁慈的人更多地是在道德和公义上，而不是在自己的利益上。那些有礼貌的人会得到比善良的朋友更多的善良朋友。那些寻求道路的人比世俗的快乐获得更多的佛法快乐。",
+        "traditional": "重視智慧的人更多地參與文化價值，而不是金錢利益。追求仁慈的人更多地是在道德和公義上，而不是在自己的利益上。那些有禮貌的人會得到比善良的朋友更多的善良朋友。那些尋求道路的人比世俗的快樂獲得更多的佛法快樂。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 15,
+        "quote": "Life should follow the practice of the Buddha Dharma. Belief should be rational. The handling of tasks should be harmonious. Cultivation should be in our daily life.",
+        "chinese": "生活应该遵循佛法。信念应该是理性的。任务的处理应该和谐。修养应该在我们的日常生活中。",
+        "traditional": "生活應該遵循佛法的實踐。信念應該是理性的。任務的處理應該和諧。修養應該在我們的日常生活中。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 16,
+        "quote": "One who really appreciates sound, wants to listen to noiseless sound. One who really appreciates food, wants to eat tasteless food. One who really appreciates sight, wants to see an empty universe. One who is skillful in thinking, wants to think of the limitless boundary of the Dharma World.",
+        "chinese": "一个真正欣赏声音的人，想听无声的声音。一个真正喜欢食物的人，想吃无味的食物。真正欣赏视线的人想要看到一个空的宇宙。思维娴熟的人想着佛法世界的无限边界。",
+        "traditional": "一個真正欣賞聲音的人，想听無聲的聲音。一個真正喜歡食物的人，想吃無味的食物。真正欣賞視線的人想要看到一個空的宇宙。思維嫻熟的人想著佛法世界的無限邊界。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 17,
+        "quote": "With contentment in the heart, everywhere is paradise; other human feelings, warm or cold, become unimportaint. With optimism, forge ahead towards freedom, do not fear might or force. Behavoiour and deportment should be dignified; life should not be extravagant. Conduct and management follow the noble eight-fold path; loving kindness, compassion, joy and equanimity are immeasurable.",
+        "chinese": "内心满足，到处都是天堂。其他人类的感受，不论是冷还是热，都变得无关紧要。乐观地向自由前进，不要惧怕威力。举止和举止应当端庄；生活不应奢侈。行为和管理遵循高贵的八重道路；仁慈，同情，喜悦和安宁是无法估量的",
+        "traditional": "內心滿足，到處都是天堂。其他人類的感受，不論是冷還是熱，都變得無關緊要。樂觀地奮鬥，走向自由，不要懼怕力量。舉止和舉止應當端莊；生活不應奢侈。行為和管理遵循高貴的八重道路；仁慈，同情，喜悅和安寧是無法估量的。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 18,
+        "quote": "In humility we experience joy. In enduring humiliation we nurture beautiful virtues. In self-restraint we overcome material desire. In tranquility we settle our body and mind.",
+        "chinese": "在谦卑中，我们体验快乐。通过持续的屈辱，我们培育美丽的美德。在自我约束中，我们克服了物质欲望。在安宁中，我们安定身心。",
+        "traditional": "在謙卑中，我們體驗快樂。通過持續的屈辱，我們培育美麗的美德。在自我約束中，我們克服了物質慾望。在安寧中，我們安定身心。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 19,
+        "quote": "With kind thoughts in the heart, every day is a good day. With family and neighbours living in harmony, everywhere is the Pure Land.",
+        "chinese": "怀着善良的思想，每一天都是美好的一天。家庭和邻居和睦相处，到处都是净土。",
+        "traditional": "內心深處，每天都是美好的一天。家庭和鄰居和睦相處，到處都是淨土。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 20,
+        "quote": "One who knows how to use time is a sage who knows the eternal truth. One who knows how to use sppace is a saint who knows limitless boundaries.",
+        "chinese": "知道如何利用时间的人是贤哲，他们知道永恒的真理。一个知道如何使用空格的人是一个知道无限边界的圣人。",
+        "traditional": "知道如何利用時間的人是知道永恆真理的聖人。知道如何使用空格的人是知道無限邊界的聖人。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 21,
+        "quote": "Time is life, fighting for time is to save life. Wasting time is to squander life.",
+        "chinese": "时间就是生命，争取时间就是拯救生命。浪费时间是浪费生命。",
+        "traditional": "時間就是生命，爭取時間就是拯救生命。浪費時間是浪費生命。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 22,
+        "quote": "The effective use of trivial time is a good prescription for progess. Treasuring drops of cause and condition is an excellent medicine for conducting oneself in society.",
+        "chinese": "有效利用琐碎的时间是进步的良方。珍惜因果关系滴是一种在社会上进行自己的良好药物。",
+        "traditional": "有效利用瑣碎的時間是進步的好處方。珍惜因果關係滴是一種在社會上進行自己的良好藥物。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 23,
+        "quote": "To be punctual is a social courtesy. To be reponsible is a professional obligation. To be fair is a leadership principle. To speak softly is a form of human culture.",
+        "chinese": "守时是一种社会礼貌。承担责任是一种职业义务。公平地说是一项领导原则。轻声说话是人类文化的一种形式。",
+        "traditional": "守時是一種社會禮貌。承擔責任是一種職業義務。公平地說是一項領導原則。輕聲說話是人類文化的一種形式。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 24,
+        "quote": "Movement is to express our innate Buddha nature to open sources. Tranquility is treasuring our internal content to decrease outflow. Being able to move and able to be tranquil, only then can one have the life of the Middle Way.",
+        "chinese": "运动是为了向开放源码表达我们与生俱来的佛性。宁静正在珍惜我们的内部内容，以减少流出。能够移动并能够保持宁静，只有这样，人们才能过上中间生活。",
+        "traditional": "運動是為了向開放源頭表達我們與生俱來的佛性。寧靜正在珍惜我們的內部內容，以減少流出。能夠移動並能夠保持寧靜，才有過中間路的生活。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 25,
+        "quote": "Stepping back is to jump farther. Crouching back is to spring higher. Taking a rest is to continue the journey further. Having a retreat is to cultivate in depth.",
+        "chinese": "退后一步是跳得更远。缩腰是春天。休息一下就是继续前进的旅程。退却是要深耕。",
+        "traditional": "退後一步是跳得更遠。縮腰是春天。休息一下就是繼續前進的旅程。退卻是要深耕。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 26,
+        "quote": "One should foster an interest but not turn it into an addiction. One should learn to be honest and upright but not become stubborn and inflexible.",
+        "chinese": "一个人应该培养一种兴趣，而不是将其变成一种成瘾。人们应该学会诚实和正直，但不要变得固执和僵硬。",
+        "traditional": "一個人應該培養一種興趣，而不是將其變成一種成癮。人們應該學會誠實和正直，但不要變得固執和僵硬。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 27,
+        "quote": "Whether you have a humble profession or dwell in a mean remote alley, As long as you pursue your vows, you will live with uprightness and an indomitable spirit.",
+        "chinese": "无论您是谦虚的职业还是住在狭窄的偏僻小巷，只要您恪守誓言，您都将以正直和顽强的精神生活。",
+        "traditional": "無論您是謙虛的職業還是住在狹窄的偏僻小巷，只要您恪守誓言，您都將以正直和頑強的精神生活。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 28,
+        "quote": "Excellent acting skills come form actors who earnestly understand the inner quality of the role. To live a rich life requires us to diligently experience the true meaning of life.",
+        "chinese": "优秀的表演技巧来自认真了解角色内在品质的演员。要过上富裕的生活，就需要我们努力地体验生活的真含义。",
+        "traditional": "優秀的表演技巧來自認真了解角色內在品質的演員。要過上富裕的生活，就需要我們努力地體驗生活的真含義。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 29,
+        "quote": "Material pleasure has no yardstick. Only the carefree mind has value. The definition of success varies with individuals. Only the wholesome perfection of virtue is significant.",
+        "chinese": "物质乐趣没有准绳。只有无忧无虑的头脑才有价值。成功的定义因人而异。只有有益健康的美德才有意义。",
+        "traditional": "物質樂趣沒有準繩。只有無憂無慮的頭腦才有價值。成功的定義因人而異。只有有益健康的美德才有意義。",
+        "type": "Living"
+    },
+    {
+        "month": "Sep",
+        "day": 30,
+        "quote": "After an extravagant and exciting life, you feel desolate and miserable. After a simple and mild life, you have a long and lasting pleasant impression.",
+        "chinese": "过了奢侈而令人兴奋的生活后，您会感到荒凉和痛苦。经过简单温和的生活后，您将获得持久的愉悦印象。",
+        "traditional": "過了奢侈而令人興奮的生活後，您會感到荒涼和痛苦。經過簡單溫和的生活後，您將獲得持久的愉悅印象。",
+        "type": "Living"
+    },
+    {
+        "month": "Oct",
+        "day": 1,
+        "quote": "Using speech to praise others is emitting light form the mouth. Giving caring eyesight to society is emitting light from the eyes. Listening to the suffering is emitting light from the ears. Using compassion to empathize sentient beings is emitting light from the heart.",
+        "chinese": "用语音赞美别人是从嘴里发光。给予社会关怀的视力正在从眼睛发出光。听痛苦正在从耳朵发出光。用同情心去体谅众生正在从心脏发出光。",
+        "traditional": "用語音讚美別人是從嘴裡發光。給予社會關懷的視力正在從眼睛發出光。聽痛苦正在從耳朵發出光。用同情心去體諒眾生正在從心臟發出光。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 2,
+        "quote": "Use the Compassionate Eye, the Wisdom Eye, the Dharma Eye and Buddha's Eye to see the Truth of the universe. Use virtuous hearing, attentive hearing, impartial hearing and thorough hearing to listen to the suffering of the world.",
+        "chinese": "用慈悲之眼，智慧之眼，佛法之眼和佛陀之眼看清宇宙的真相。用美德听，专心听，公正听和彻底听来聆听世界的苦难。",
+        "traditional": "用慈悲之眼，智慧之眼，佛法之眼和佛陀之眼看清宇宙的真相。使用良性聽覺，專心聽覺，公正聽覺和徹底聽覺來聆聽世界的苦難。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 4,
+        "quote": "Compassion is like the fragrance of blossoms that spread around happiness. A word of love is like the warmth of sunshine that reaches around the world.",
+        "chinese": "同情心就像绽放在幸福中的花朵的芬芳。爱的话就像遍及世界的阳光温暖。",
+        "traditional": "同情心就像散佈在幸福中的花朵的芬芳。愛的話就像遍及世界的陽光溫暖。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 5,
+        "quote": "Always saying \"please\", \"thank you\", and \"I am sorry\" will harmonise our life; Always contemplating on \"goodness\", and \"repentance\", \"engaging good affinity\" will beautify our personality.",
+        "chinese": "总是说“请”，“谢谢”和“对不起”会协调我们的生活；一直在考虑“善”，“悔改”，“保持良好的亲和力”将美化我们的个性。",
+        "traditional": "總是說“請”，“謝謝”和“對不起”會協調我們的生活；一直在考慮“善”，“悔改”，“保持良好的親和力”將美化我們的個性。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 6,
+        "quote": "Adding something extra to an already good situation is just icing on the cake which can only bring short-term happiness. Providing help when in dire need would bring lasting appreciation.",
+        "chinese": "在已经良好的情况下增加额外的东西只是锦上添花，只能带来短期的幸福。在迫切需要时提供帮助将带来持久的赞赏。",
+        "traditional": "在已經良好的情況下增加一些額外的東西只是錦上添花，只能帶來短期的幸福。在迫切需要時提供幫助將帶來持久的讚賞。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 7,
+        "quote": "Blessedness is like money in the bank; other than spending it, we must earn more. Blessedness is like a seed in the paddy field; as we harvest it, we must cultivate more.",
+        "chinese": "祝福就像银行里的钱。除了花钱，我们还必须赚更多。祝福就像稻田里的种子。在收获时，我们必须增加种植。",
+        "traditional": " 祝福就像銀行里的錢。除了花錢，我們還必須賺更多。祝福就像稻田裡的種子。收穫時，我們必須增加種植。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 8,
+        "quote": "Let the beauty of benevolence spread in this world. Let the fragrance of caring extended to the society. Let the pureness of sincerity be offered to the universe. Let colourful kindness touch every one.",
+        "chinese": "让仁慈之美在这个世界上传播。让关怀的香气延伸到社会。让真诚的纯洁被提供给宇宙。让多彩的善良感动每一个人。",
+        "traditional": "讓仁慈之美在這個世界上傳播。讓關懷的香氣延伸到社會。讓真誠的純潔被提供給宇宙。讓多彩的善良感動每一個人。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 9,
+        "quote": "Compassion can dissolve disharmony among people. Wisdom can overcome discord among people and things.",
+        "chinese": "同情心可以消除人与人之间的不和谐。智慧可以克服人与物之间的矛盾。",
+        "traditional": "同情心可以消除人與人之間的不和諧。智慧可以克服人與物之間的矛盾。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 10,
+        "quote": "The availability of wealth relies unpon the right use of Mother Earth. Harmony among people depends on the affinity of the destiny that connects them.",
+        "chinese": "财富的获取依赖于正确使用地球母亲。人与人之间的和谐取决于连接他们的命运的亲和力。",
+        "traditional": "財富的獲得依賴於對地球母親的正確使用。人與人之間的和諧取決於連接他們的命運的親和力。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 11,
+        "quote": "Use compassion to care for sentient beings, Perceive the things in this world with the eyes of compassion. Let compassionate speech praise in times of rejoicing, Let compassionate hands perform expansive good deeds.",
+        "chinese": "用同情心照顾众生，用同情心的眼睛感知这个世界上的事物。在欣喜之时让富有同情心的言语称赞，让富有同情心的手表现出广泛的善行。",
+        "traditional": "用同情心照顧眾生，用同情心的眼睛感知這個世界上的事物。在欣喜之時讓富有同情心的演講讚美，讓富有同情心的手錶演廣闊的善行。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 12,
+        "quote": "Accept the existence of differences among people. Accept the dignity of the disabled. Accept the harmfulness of the enemy. Accept the mistakes of the unintentional.",
+        "chinese": "接受人与人之间存在差异。接受残疾人的尊严。接受敌人的危害。接受无心的错误。",
+        "traditional": "接受人與人之間存在差異。接受殘疾人的尊嚴。接受敵人的危害。接受無心的錯誤。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 13,
+        "quote": "Forgiveness is to expand our magnanimity. Acceptance is to improve harmony. Compassion is to promote morality. Giving is to grow our friendship.",
+        "chinese": "宽恕是扩大我们的宽容。接受是为了增进和谐。同情是促进道德。给予是增进我们的友谊。",
+        "traditional": "寬恕是擴大我們的寬容。接受是為了增進和諧。同情是促進道德。給予是增進我們的友誼。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 14,
+        "quote": "If you wish forgiveness from people, you must show forgiveness first. If you wish understanding from people, you must show understanding first.",
+        "chinese": "如果您希望别人的宽恕，您必须首先表现出宽恕。如果您希望得到人们的理解，则必须首先表现出理解。",
+        "traditional": "如果您希望別人的寬恕，您必須首先表現出寬恕。如果您希望得到人們的理解，則必須首先表現出理解。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 15,
+        "quote": "Comparing with others is annoying. Feeling for others from one's heart to another's fosters warmth.",
+        "chinese": "与他人进行比较很烦人。从别人的内心深处感受到别人的温暖。",
+        "traditional": "與他人進行比較很煩人。從別人的內心深處感受到別人的溫暖。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 16,
+        "quote": "A drinking session is joyful without forcing, A chess game is successful without competition. A fact should be told without wild talk. A human chracter grows without desires.",
+        "chinese": "喝酒会很快乐而不用强迫，而象棋游戏则不用竞争就可以成功。事实不应该胡说八道。人类的魅力在没有欲望的情况下成长。",
+        "traditional": "喝酒是快樂而又不強迫的，而像棋遊戲是沒有競爭的成功。事實不應該胡說八道。人類的魅力在沒有慾望的情況下成長。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 17,
+        "quote": "The smartest people in the world are those who hat affliction instead of hating people. The happiest person in the world is the one who would feel happy for others.",
+        "chinese": "世界上最聪明的人是那些讨厌而不是讨厌人的人。世界上最幸福的人是会为他人感到高兴的人。",
+        "traditional": "世界上最聰明的人是那些討厭而不是討厭人的人。世界上最幸福的人是會為他人感到高興的人。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 18,
+        "quote": "An expressive person livens things up like rain drops on dry land. The strong and good human feeling between people is like thunder that wakens everything.",
+        "chinese": "富有表现力的人会像雨水一样洒落在干燥的土地上，使事情活跃起来。人与人之间强烈而良好的感觉就像雷鸣般唤醒一切。",
+        "traditional": "一個富有表現力的人會像雨水一樣降落在乾燥的土地上，使事情活躍起來。人與人之間強烈而良好的感覺就像雷鳴般喚醒一切。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 19,
+        "quote": "Compassion is the most valuable virtue because it beautifies our life, Wisdom is enormous wealth because it leads us to a bright future.",
+        "chinese": "同情是最有价值的美德，因为它美化了我们的生活；智慧是巨大的财富，因为它使我们拥有光明的未来。",
+        "traditional": "同情是最有價值的美德，因為它美化了我們的生活。智慧是巨大的財富，因為它使我們擁有光明的未來。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 20,
+        "quote": "Sublime personality comes with a broad mind; to be at a disadvantage is bliss. Learning to be at a disadvantage will help us to foster a good relationship. Acknowledging mistakes and making rectification are great virtues. Repentance improves one's moral chracter.",
+        "chinese": "崇高的个性带有宽广的胸怀；处于劣势的是幸福。学会处于不利地位将有助于我们建立良好的关系。认识错误和纠正错误是伟大的美德。悔改可以提高人的道德素养。",
+        "traditional": "崇高的個性帶有寬廣的胸懷；處於劣勢的是幸福。學會處於不利地位將有助於我們建立良好的關係。認識錯誤和糾正錯誤是偉大的美德。悔改可以提高人的道德素養。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 21,
+        "quote": "Sense of humour is wise and far-sighted; it can save embarrassment and is not meant to tease other people. Being comical is wisdom as it is humorous comments to tease ourselves and is not meant to be sarcastic to other people.",
+        "chinese": "幽默感是明智而有远见的；它可以节省尴尬，而不是取笑别人。幽默可笑是智慧，因为这是对自己取笑的幽默评论，并不意味着对他人讽刺。",
+        "traditional": "幽默感是明智而有遠見的；它可以節省尷尬，而不是取笑別人。幽默可笑是智慧，因為這是對自己取笑的幽默評論，並不意味著對他人諷刺。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 22,
+        "quote": "We have two eyes and two ears so that we can see and listen more. But we only have one mouth so perhaps we should speak less.",
+        "chinese": "我们有两只眼睛和两只耳朵，所以我们可以看和听更多。但是我们只有一只嘴，所以也许我们应该少说话。",
+        "traditional": "我們有兩隻眼睛和兩隻耳朵，所以我們可以看和聽更多。但是我們只有一隻嘴，所以也許我們應該少說話。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 23,
+        "quote": "Emphasize the rights and wrongs. understate the profit and loss; Emphasize putting words into practice, understate empty promises; Emphasize relationships that build on human favour; Emphasize enlightening truth, understate secular acts.",
+        "chinese": "强调是非。低估损益；强调将言词付诸实践，轻描淡写诺言；强调建立在人情基础上的关系；强调开明的真理，轻描淡写的世俗行为。",
+        "traditional": "強調是非。低估損益；強調將言詞付諸實踐，輕描淡寫諾言；強調建立在人情基礎上的關係；強調開明的真理，輕描淡寫的世俗行為。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 24,
+        "quote": "Choose good neighbours to live with. Choose good companions to travel with. Choose good books for seeking knowledge. Choose good friends for right practice.",
+        "chinese": "选择好邻居。选择好同伴旅行。选择好的书籍来寻求知识。选择好朋友进行正确的练习。",
+        "traditional": "選擇好鄰居。選擇好同伴旅行。選擇好的書籍來尋求知識。選擇好朋友進行正確的練習。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 25,
+        "quote": "An additional friend means one enemy fewer. The effort of hard work means one defeat fewer.",
+        "chinese": "额外的朋友意味着更少的敌人。努力的工作意味着更少的失败。",
+        "traditional": "多一個朋友意味著少一個敵人。努力的工作意味著更少的失敗。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 26,
+        "quote": "Cultivation of good thoughts and words makes you wholesome. Helping others is a wholesome act. Realization of the principle of dependent origination results in living in harmony with others.",
+        "chinese": "良好的思想和言语的养成使您变得健康。帮助他人是有益的举动。依赖起源原则的实现导致与他人和谐相处。",
+        "traditional": "良好的思想和言語的養成使您變得健康。幫助他人是有益的舉動。依賴起源原則的實現導致與他人和諧相處。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 27,
+        "quote": "The best present is sincere advice from others. The best self-cultivation is to forgive others.",
+        "chinese": "最好的礼物是别人的真诚建议。最好的自我修养是宽恕他人。",
+        "traditional": "最好的禮物是別人的真誠建議。最好的自我修養是寬恕他人。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 28,
+        "quote": "Promote harmony, care for others, appreciate opportunities, and work for the benefit of all beings.",
+        "chinese": "促进和谐，关心他人，把握机会并为所有人的利益而努力。",
+        "traditional": "促進和諧，關心他人，把握機會並為所有人的利益而努力。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 29,
+        "quote": "Bearing the unbearable task is the work of great beings. Tolerating the intolerable is the cultivation of sages.",
+        "chinese": "承担不起的任务是伟大的人类的工作。容忍无法忍受的是贤哲的培养。",
+        "traditional": "承擔不起的任務是偉大的人類的工作。容忍無法忍受的是賢哲的培養。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 30,
+        "quote": "Patience is the power for cultervation and practice. Acceptance is the self-cultivation for being human. Gentleness is the effective prescription for handling affairs. Gratitude is the way of apperciating goodness.",
+        "chinese": "耐心是修养和实践的力量。接受是人类的自我修养。温柔是处理事务的有效处方。感恩是善良的一种方式。",
+        "traditional": "耐心是修養和實踐的力量。接受是人類的自我修養。溫柔是處理事務的有效處方。感恩是善良的一種方式。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Oct",
+        "day": 31,
+        "quote": "A wise person would not feel bored when pursuing a higher level of knowledge. A benevolent person would not feel tired when educating others. A diligent person would not feel suffering when educating others. A diligent person would not deel suffering when doing beneficeial things. A caoable person would not complain wehn facing hardships.",
+        "chinese": "追求更高层次的知识时，智者不会感到无聊。一个善良的人在教别人时不会感到疲倦。一个勤奋的人在教育他人时不会感到痛苦。勤奋的人做有益的事情不会减轻痛苦。有风度的人不会抱怨遇到困难。",
+        "traditional": "追求更高水平的知識時，智者不會感到無聊。一個善良的人在教別人時不會感到疲倦。一個勤奮的人在教育他人時不會感到痛苦。勤奮的人在做有益的事情時不會減輕痛苦。有風度的人不會抱怨遇到困難。",
+        "type": "Interpersonal"
+    },
+    {
+        "month": "Nov",
+        "day": 1,
+        "quote": "The conscious mind can either be a stately temple or a war zone engulfed in flames. The conscious mind can either be a manufacturer of excellence or a breeding ground for crimes and acts of violence.",
+        "chinese": "有意识的头脑可以是庄严的圣殿，也可以是被火焰吞没的战区。有意识的头脑可以成为卓越的制造者，也可以成为犯罪和暴力行为的温床。",
+        "traditional": "有意識的頭腦可以是莊嚴的聖殿，也可以是被火焰吞沒的戰區。有意識的頭腦可以成為卓越的製造者，也可以成為犯罪和暴力行為的溫床。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 2,
+        "quote": "Correct our own mistakes eagerly. Advise others about their mistakes calmly.",
+        "chinese": "急于纠正我们自己的错误。冷静地建议其他人注意自己的错误。",
+        "traditional": "急於糾正我們自己的錯誤。冷靜地向其他人建議他們的錯誤。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 3,
+        "quote": "If we accept advice, endure wrong and hardship, we will improve ourselves. If we change the way we speak, change our bad attitudes, and change our thoughts, we will cultivate ourselves. In doing good deeds we should be brave and responsible in our conduct and speech. May we think, reflect, and consider carefully while learning.",
+        "chinese": "如果我们接受建议，忍受错误和磨难，我们将改善自己。如果我们改变说话方式，改变不良态度并改变思想，我们将培养自己。在做善事时，我们应该在行为和言语上勇于承担责任。让我们在学习的过程中思考，思考并仔细考虑。",
+        "traditional": "“如果我們接受建議，忍受錯誤和磨難，我們將改善自己。如果我們改變說話方式，改變不良態度，改變思想，我們將培養自己。在做善事時，我們應該勇於承擔責任。我們的行為和言語，讓我們在學習時認真思考，思考和思考。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 4,
+        "quote": "Correcting faults leads to progress. Admitting faults leads to self-improvement. Helping others leads to good affinity. Restraint leads to cultivation of virtue.",
+        "chinese": "纠正错误可以取得进步。承认错误会导致自我完善。帮助他人可以建立良好的亲和力。克制会导致美德的培养。",
+        "traditional": "糾正錯誤可以取得進步。承認錯誤會導致自我完善。幫助他人可以建立良好的親和力。克制導致修養美德。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 5,
+        "quote": "Never changing will lead us to being outdated. Always hesitating to move forward is regression.",
+        "chinese": "永不改变将导致我们过时。总是犹豫前进是回归。",
+        "traditional": "永不改變將導致我們過時。總是猶豫前進是回歸。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 6,
+        "quote": "Patient listening expands your knowledge and makes you likeable. Doing things diligently not only increases your energy, it also make success easier.",
+        "chinese": "耐心聆听可以扩展您的知识并使您变得讨人喜欢。勤奋地做事不仅可以增加精力，而且可以使成功变得更容易。",
+        "traditional": "耐心聆聽可以擴展您的知識並使您變得討人喜歡。勤奮地做事不僅可以增加精力，而且可以使成功變得更容易。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 7,
+        "quote": "Indigestible information and knowing too much may cause distress in life. Sometimes it is good to just stay dumb and deaf. Egoism and greed lead to suffering in life. Sometimes it is good to play the fool.",
+        "chinese": "无法消化的信息和太多的知识可能会给生活带来困扰。有时候，保持沉默和聋哑是件好事。利己主义和贪婪导致生活遭受苦难。有时候扮演傻瓜是件好事。",
+        "traditional": "無法消化的信息和太多的知識可能會給生活帶來困擾。有時候，保持沉默和聾啞是件好事。利己主義和貪婪導致生活遭受苦難。有時候扮演傻瓜是件好事。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 8,
+        "quote": "Practise less attachment and one would feel calm and at peace. Practise humility and one would have more friends. Practice good virtue and one would have good honour. Practise public spirit and one would have great success.",
+        "chinese": "练习少一些依恋，一个人会感到平静与安宁。练习谦卑，会有更多的朋友。练习良好的美德，就会有良好的荣誉。践行公众精神，将会取得巨大的成功。",
+        "traditional": "練習少一些依戀，一個人會感到平靜與安寧。練習謙卑，會有更多的朋友。練習良好的美德，就會有良好的榮譽。踐行公眾精神，將會取得巨大的成功。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 9,
+        "quote": "Accept each and every condition. Be curious and learn from every situation. Be astute and put experience into practice. Deal with matters with patience and readiness to compromise.",
+        "chinese": "接受每个条件。保持好奇心，并从各种情况中学习。要精明，将经验付诸实践。处理问题时要耐心并愿意妥协。",
+        "traditional": "接受每個條件。保持好奇心，並從各種情況中學習。要精明，將經驗付諸實踐。處理問題時要耐心並願意妥協。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 10,
+        "quote": "If we forget about hatred and dissatisfaction, we would be free from frustration. By not being calculative and comparing among people, we would receive many friends and assistance.",
+        "chinese": "如果我们忘记仇恨和不满，我们将摆脱沮丧。通过不进行推敲和在人与人之间进行比较，我们将获得许多朋友和帮助。",
+        "traditional": "如果我們忘記仇恨和不滿，我們將擺脫沮喪。通過不進行推敲和在人與人之間進行比較，我們將獲得許多朋友和幫助。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 11,
+        "quote": "Pay more attention to others than yourself. Emphasise more on giving than on contesting for something. Emphasise more on gratitude than enmity. Pat more attention to good virtue than talent.",
+        "chinese": "比别人更注意别人。重点在于付出，而不是争夺某些东西。重点要多于感恩而不是仇恨。轻拍比善才更注重美德。",
+        "traditional": "比別人更注意別人。重點在於付出，而不是爭奪某些東西。重點要多於感恩而不是仇恨。輕拍比善才更注重美德。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 12,
+        "quote": "Every day people talk about rights and wrongs; this habit increases each day. Everyday people talk about rights and wrongs; if we stopped listening there would be none.",
+        "chinese": "人们每天都在谈论是非。这个习惯每天都在增加。人们每天都在谈论是非。如果我们停止聆听，那就没有声音了。",
+        "traditional": "人們每天都在談論是非。這個習慣每天都在增加。人們每天都在談論是非。如果我們停止聆聽，那就沒有聲音了。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 13,
+        "quote": "Speaking the unnecessary is considered talkative and would arouse animosity. Speaking the improper is considered indiscreet and would invite trouble.",
+        "chinese": "说出不必要的话被认为是多嘴的，并且会引起仇恨。说不当的话被认为是轻率的，会引起麻烦。",
+        "traditional": "說出不必要的話被認為是多嘴的，並且會引起敵意。說不當的話被認為是輕率的，會引起麻煩。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 14,
+        "quote": "Understanding the situation and people are essential factors in day-to-day human interactions. Understanding the Buddha, Dharma, people and wisdom are essential factors for learning and practising Buddhism.",
+        "chinese": "了解情况和人员是日常人际交往中的重要因素。了解佛陀，佛法，人和智慧是学习和实践佛教的重要因素。",
+        "traditional": "了解情況和人員是日常人際交往中的重要因素。了解佛陀，佛法，人和智慧是學習和實踐佛教的重要因素。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 15,
+        "quote": "Avoid deranged thoughts, and then we can understand people easily. Aboid distrust, and then we can understand circumstances clearly. Avoid attachments, and then we can have a carefree life. Avoid desires, and then we can be control of our mind.",
+        "chinese": "避免思维混乱，这样我们就可以轻松地了解人们。类比生物不信任，然后我们可以清楚地了解情况。避免附件，然后我们可以过着无忧无虑的生活。避免欲望，然后我们可以控制自己的思想。",
+        "traditional": "避免思維混亂，這樣我們就可以輕鬆地了解人們。類比生物不信任，然後我們可以清楚地了解情況。避免附件，然後我們可以過著無憂無慮的生活。避免慾望，然後我們可以控制自己的思想。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 16,
+        "quote": "Less desire makes you virtuous and wise. Less prejudice makes your life expansive.",
+        "chinese": "更少的欲望会使你贤惠而明智。更少的偏见使您的生活更加广阔。",
+        "traditional": "更少的慾望會使你賢惠而明智。更少的偏見使您的生活更加廣闊。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 17,
+        "quote": "Counteract wrong thoughts through positive beliefs. Contermplate defilements through right mindfulness. Excel in right mindfulness through eliminating all thoughts.",
+        "chinese": "通过积极的信念消除错误的想法。通过正确的正念来考虑污秽。通过消除所有想法而保持正念。",
+        "traditional": "通過積極的信念消除錯誤的想法。通過正確的正念來考慮污穢。消除所有想法，保持正念。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 18,
+        "quote": "Relinquish the sword of hatred, free your body and mind. Sever the bond of obstinacy, enjoy the calmness of meditation.",
+        "chinese": "释放仇恨之剑，解放您的身心。切断固执的束缚，享受沉思的平静。",
+        "traditional": "釋放仇恨之劍，解放您的身心。切斷固執的束縛，享受沉思的平靜。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 19,
+        "quote": "Do not forget to persevere towards a great goal while busily juggling with the trifles. Do not forget the search for eternal happiness and not get trapped in a momentary desire.",
+        "chinese": "在忙于与琐事杂耍时，不要忘记坚持朝着一个伟大的目标迈进。不要忘记寻找永恒的幸福，也不要陷入短暂的欲望中。",
+        "traditional": "在忙於與瑣事雜耍時，別忘了堅持朝著一個偉大的目標邁進。不要忘記尋找永恆的幸福，也不要陷入短暫的慾望中。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 20,
+        "quote": "By listening more, contemplating and practising, we develop wisdom. By removing greed, hatred and delusion, we develop a pure mind.",
+        "chinese": "通过多听，思考和练习，我们可以发展智慧。通过消除贪婪，仇恨和妄想，我们培养了纯洁的思想。",
+        "traditional": "通過多聽，思考和練習，我們可以發展智慧。通過消除貪婪，仇恨和妄想，我們培養了純潔的思想。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 21,
+        "quote": "Use wisdom to determine your direction, and you will arrive. User determination to treat your problems, and they will be solved.",
+        "chinese": "用智慧来确定您的方向，您就会到达。用户决心解决您的问题，这些问题将得到解决。",
+        "traditional": "用智慧來確定您的方向，您就會到達。用戶決心解決您的問題，這些問題將得到解決。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 22,
+        "quote": "Righteousness builds a good foundation. A good foundation leads to the Buddha path. The Buddha path purifies the mind. A purifies mind manifests the unobstructed Buddha nature within us.",
+        "chinese": "公义打下良好的基础。良好的基础通往佛陀之路。佛陀的道路净化心灵。清净的心意表明了我们内心通透的佛性。",
+        "traditional": "公義打下良好的基礎。良好的基礎通往佛陀之路。佛陀的道路淨化心靈。清淨的心意表明了我們內心通透的佛性。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 23,
+        "quote": "Rising above failure, you will realize your objective. Withstanding disappointment, you will succeed.",
+        "chinese": "超越失败，您将实现自己的目标。面对失望，您将成功。",
+        "traditional": "超越失敗，您將實現自己的目標。面對失望，您將成功。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 24,
+        "quote": "Things lasting for some time would create a feeling of dullness and apathy. Feelings that are to strong may not last long.",
+        "chinese": "事情持续一段时间会产生一种呆滞和冷漠的感觉。强烈的感觉可能不会持续很长时间。",
+        "traditional": "事情持續一段時間會產生一種呆滯和冷漠的感覺。強烈的感覺可能不會持續很長時間。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 25,
+        "quote": "A person who only thinks of himself will not feel happy. A person who emphasises self-interest would fail in the end.",
+        "chinese": "一个只想到自己的人不会感到幸福。一个强调自我利益的人最终会失败。",
+        "traditional": "一個只想到自己的人不會感到幸福。一個強調自我利益的人最終會失敗。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 26,
+        "quote": "Accept criticism if you have made a mistake and sincerely correct it. Do not refute even if you are treated unjustly but look within yourself.",
+        "chinese": "如果您犯了一个错误，请接受批评，并真诚纠正。即使您受到不公正的对待，但要反省自己，也不要反驳。",
+        "traditional": "如果您犯了一個錯誤，請接受批評，並真誠糾正。即使您受到不公正的對待，但要反省自己，也不要反駁。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 27,
+        "quote": "Life will come to a standstill if there is lack of self-confidence and self-esteem. Integrity will become mean and low if we refuse to uphold virtue and practise wisdom.",
+        "chinese": "如果缺乏自信和自尊心，生活将陷入僵局。如果我们拒绝坚持美德和实践智慧，那么廉正就会变得卑鄙而卑鄙。",
+        "traditional": "如果缺乏自信和自尊心，生活將陷入僵局。如果我們拒絕堅持美德和實踐智慧，那麼廉正將變得卑鄙而卑鄙。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 28,
+        "quote": "Do not cheat nature. Do not cheat people. Do not cheat the conscience. Do not cheat society.",
+        "chinese": "不要欺骗自然。不要欺骗人。不要欺骗良心。不要欺骗社会。",
+        "traditional": "不要欺騙自然。不要欺騙人。不要欺騙良心。不要欺騙社會。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 29,
+        "quote": "When you are detached from possessions, from name and gain, from passions and troubled thoughts, you won't be discouraged by what may come.",
+        "chinese": "当您脱离财产，名誉和收益，激情和混乱的思想时，您将不会对即将发生的事情感到沮丧。",
+        "traditional": "當您脫離財產，名譽，收益，激情和困擾的思想時，您將不會對即將發生的事情感到沮喪。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Nov",
+        "day": 30,
+        "quote": "Do good deeds to leave a food name for ourselfs. Contribute to society and we will have no regrets afer death. Unjust acts can create slander for us. A person who is useless to society is filled with fear and is as good as not living.",
+        "chinese": "做好事，为自己留下一个美食名。为社会做贡献，死后我们不会后悔。不公正的行为会给我们造成诽谤。一个对社会无用的人充满了恐惧，与没有生活一样好。",
+        "traditional": "做好事，為自己留下一個美食名。為社會做貢獻，死後我們不會後悔。不公正的行為會給我們造成誹謗。一個對社會無用的人充滿了恐懼，並且生活得好極了。",
+        "type": "Introspection"
+    },
+    {
+        "month": "Dec",
+        "day": 1,
+        "quote": "Refuge in the Buddha lights up your mind and sets up a power plant in you. Refuge in the Dharma saves the ambrosial water and sets up waterworks in you. Refuge in the sangha nurtures the flower and fruit of enlightenment and cultivates an orchard in you.",
+        "chinese": "佛陀的避难所照亮了您的思想，并在您体内建立了一座发电厂。佛法中的避难所可以节省纤维水并在您体内建立自来水厂。避开僧伽，可以养育开明的花朵和果实，并在您的果园里种果园。",
+        "traditional": "佛陀的避難所照亮了您的思想，並在您體內建立了一座發電廠。佛法中的避難所可以節省纖維水並在您體內建立自來水廠。避開僧伽，可以養育開明的花朵和果實，並在您的果園裡種果園。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 2,
+        "quote": "Superstition in religion is not terrible; it is just lack of knowing. Disbelief in religion is sad because one has nothing. Incorrect belief in religion is frighfil because it may lead to the wrong path. Right belief in religion is joyful because it leads to a bright future.",
+        "chinese": "宗教迷信并不可怕。只是缺乏了解。对宗教的怀疑是可悲的，因为人们一无所有。对宗教的不正确信仰很容易被误解，因为它可能导致错误的道路。对宗教的正确信仰是快乐的，因为它可以带来光明的未来。",
+        "traditional": "宗教迷信並不可怕。只是缺乏了解。對宗教的懷疑是可悲的，因為人們一無所有。對宗教的不正確信念很容易被誤解，因為它可能導致錯誤的道路。對宗教的正確信仰是快樂的，因為它可以帶來光明的未來。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 3,
+        "quote": "Learning Buddha Dharma is to learn about ourselves and search within our mind. Learning meditation is to know about our mind and discover our purified, unimpeded Buddha nature.",
+        "chinese": "学习佛法就是要了解自己，并在我们的思想中进行探索。学习冥想是要了解我们的思想并发现我们纯净无阻的佛性。",
+        "traditional": "學習佛法就是要了解自己並在我們的思想中進行探索。學習冥想是要了解我們的思想並發現我們純淨無阻的佛性。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 4,
+        "quote": "Reading is the foundation of wisdom. Forming affinity is the foundation for managing people. Cultivating compassion is the foundation for well-being. Practising non-self is the foundation of becoming the Buddha.",
+        "chinese": "阅读是智慧的基础。建立亲和力是管理人员的基础。培养同情心是幸福的基础。修行非自我是成为佛陀的基础。",
+        "traditional": "閱讀是智慧的基礎。建立親和力是管理人員的基礎。培養同情心是幸福的基礎。修行非自我是成為佛陀的基礎。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 5,
+        "quote": "Look at the sunset clouds and realise their impermanence, because the setting sun is near dusk; Look at the white clouds and realise their rolling up and expanding, because clouds rise without intention; Look at the mountains and realise their grandeur, because mountains looked overwelming from afar; Look at the oceans and realise their greatness, because the oceans seem linked to the sky.",
+        "chinese": "看看夕阳的乌云，并意识到它们的无常性，因为夕阳接近黄昏。看看白云，并意识到它们的卷起和扩展，因为白云无意地升起。看山，意识到自己的宏伟，因为远处的山看起来遍地都是。看看海洋并意识到它们的伟大，因为海洋似乎与天空相连。",
+        "traditional": "看看夕陽的烏雲，並意識到它們的無常性，因為夕陽接近黃昏。看看白雲，意識到它們的捲起和擴展，因為白云無意地升起；看山，意識到自己的宏偉，因為遠處的山看起來遍地都是；看看海洋並意識到它們的偉大，因為海洋似乎與天空相連。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 6,
+        "quote": "Transform our mind to seek the right path. Detach to enter the right path. Adopt compassion and wisdom to walk to right path. Understand non-self to attain the right path.",
+        "chinese": "改变我们的思维，寻找正确的道路。分离以输入正确的路径。采取同情和智慧走正确的道路。了解非自我才能走上正确的道路。",
+        "traditional": "改變我們的思維，尋找正確的道路。分離以輸入正確的路徑。採取同情和智慧走正確的道路。了解非自我才能走上正確的道路。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 7,
+        "quote": "Principles transcend mistakes; the rule of the law transcends principles; power and authority transcend the rule of law; cause and effect transcend power and authority.",
+        "chinese": "原则超越错误；法治超越原则；权力和权威超越法治；因果超越权力和权威。",
+        "traditional": "原則超越錯誤；法治超越原則；權力和權威超越法治；因果超越權力和權威。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 8,
+        "quote": "If we have compassion and wisdom, \"wondrous existence\" can be transcended to \"real emptiness.\" If we show consideration to society and others, \"real emptiness\" will bring \"wonderous existence.\"",
+        "chinese": "如果我们有同情心和智慧，那么“奇妙的存在”可以超越“真正的空虚”。如果我们考虑社会和其他人，“真正的空虚”将带来“奇妙的存在”。",
+        "traditional": "如果我們有同情心和智慧，“奇妙的存在”可以超越“真正的空虛”。如果我們考慮社會和其他人，“真正的空虛”將帶來“奇妙的存在”。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 9,
+        "quote": "\"Impermanent\" matters lead to the progress of civilization. \"Impermanent\" life leads to the way to the future of hope.",
+        "chinese": "“无常”问题导致文明进步。 “无常”的生活通往通往希望的未来之路。",
+        "traditional": "“無常”問題導致文明進步。 “無常”的生活通往通往希望的未來之路。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 10,
+        "quote": "Understanding the Dharma leads to Enlightenment; the enlightened ones understand the mind and penetrate nature. Attainment is achieved only if we practise; those who have attained fulfil the Bodhi.",
+        "chinese": "了解佛法会带来启示；开明的人了解思想并渗透自然。只有实践，才能达到成就。那些成就了菩提的人。",
+        "traditional": "了解佛法會帶來啟示；開明的人了解思想並滲透自然。只有實踐，才能達到成就。那些成就了菩提的人。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 11,
+        "quote": "Compassion can dissolve grudges completely and transform war into friendship. Compassion can bring success, liberate sentient beings, and transform adversity into building good affinities.",
+        "chinese": "同情心可以彻底消除仇恨，使战争变成友谊。同情心可以带来成功，解放有情的人，并将逆境转化为建立良好的亲和力。",
+        "traditional": "同情心可以徹底消除怨恨，使戰爭變成友誼。同情可以帶來成功，解放有情的人，並將逆境轉化為建立良好的親和力。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 12,
+        "quote": "One can live without seeking extra wealth, but one must explore the treasures of one's mind. One can live without water and power but one must develop social resources.",
+        "chinese": "一个人可以在不寻求额外财富的情况下生活，但是一个人必须探索自己思想的宝藏。一个人可以没有水和动力而生活，但是一个人必须开发社会资源。",
+        "traditional": "一個人可以在不尋求額外財富的情況下生活，但是一個人必須探索自己思想的寶藏。一個人可以沒有水和動力而生活，但是一個人必須開發社會資源。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 13,
+        "quote": "Believing in Buddha Dharma is not seeking supernatural power, but learning the Bhudda's practice of both compassion and wisdom. Believing in Buddha Dharma is not seeking prosperity and longevity, but comprehending the truth of the Dharma, cause, condition and retribution.",
+        "chinese": "相信佛法不是在寻求超自然的力量，而是要学习布达的慈悲与智慧实践。相信佛法不是在寻求繁荣和长寿，而是要理解佛法的真相，因果，状况和报应。",
+        "traditional": "相信佛法並不是要尋求超自然的力量，而是要學習布達的慈悲與智慧實踐。信奉佛法不是要尋求繁榮和長壽，而是要理解佛法的真相，因果，狀況和報應。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 14,
+        "quote": "With a whole-hearted higher thought, one not only can comprehend the Buddha mind; one can also enhance humanity. How wonderful! An insignificant evil thought can undermind one's reputation while the severity of the evil can destroy a country. How can we not be cautious!",
+        "chinese": "有了全心全意的更高思想，不仅可以理解佛陀的思想，而且还可以理解佛陀的思想。一个也可以增强人性。多么美妙！无足轻重的邪恶思想会损害自己的名声，而邪恶的严重性则会破坏一个国家。我们怎么能不谨慎！",
+        "traditional": "有了全心全意的更高思想，不僅可以理解佛陀的思想，而且還可以理解佛陀的思想。一個也可以增強人性。多麼美妙！無足輕重的邪惡思想會損害自己的名聲，而邪惡的嚴重性則會破壞一個國家。我們怎麼能不謹慎！",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 15,
+        "quote": "Use ethics to purify our beloved, use morals to lead our beloved. Use kindness to fulfil our beloved, use joyful wishes to inspire and support our beloved.",
+        "chinese": "用道德净化我们的爱人，用道德引领我们的爱人。用仁慈来实现我们的挚爱，用快乐的愿望来激发和支持我们的挚爱。",
+        "traditional": "用道德淨化我們的愛人，用道德引領我們的愛人。用仁慈來實現我們的摯愛，用快樂的願望來激發和支持我們的摯愛。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 16,
+        "quote": "Cause and effect cannot be hidden: a good deed will bring good retribution, a bad deed will bring bad retribution; it is only a matter of time. The truth cannot be deceived: there are ealities and unrealities, and the two will ultimately balance out.",
+        "chinese": "原因和后果不能被隐藏：好事将带来报应，坏事将带来报应；这只是时间问题。真相不能被欺骗：既有公义又有不现实，两者最终将取得平衡。",
+        "traditional": "原因和後果不能被隱藏：好事將帶來報應，壞事將帶來報應；這只是時間問題。真相不能被欺騙：既有公義又有不現實，兩者最終將取得平衡。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 17,
+        "quote": "A virtuous person believes in cause and effect; A wise person understands dependent origination.",
+        "chinese": "有道德的人相信因果。明智的人会理解依赖的起源。",
+        "traditional": "有道德的人相信因果。明智的人會理解依賴的起源。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 18,
+        "quote": "Everything smells bad and is dirty if we see things with a soiled mind. Everything is the wonderful manifestation of the Buddha if we see with a Bodhisattva mind.",
+        "chinese": "如果我们以肮脏的心态看东西，一切都会闻起来很臭，很脏。如果我们以菩萨的心态来看，一切都是佛陀的奇妙体现。",
+        "traditional": "如果我們以骯髒的心態看東西，一切都會聞起來很臭，很髒。如果我們以菩薩的心態來看，一切都是佛陀的奇妙體現。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 19,
+        "quote": "Busy people have no false thoughts; idle people gave no happieness, Good people have no grudges; bad people have no reasons. One with wisdom has no affliction; unskilled people have no knowledge. Evil people have no right thoughts; righteous people have no evil minds.",
+        "chinese": "忙碌的人没有错误的想法；懒惰的人没有幸福；善良的人没有怨恨。坏人没有理由。有智慧的人没有苦难。不熟练的人没有知识。邪恶的人没有正确的思想。义人没有恶意。",
+        "traditional": "忙碌的人們沒有錯誤的想法；懶惰的人沒有幸福；善良的人沒有怨恨。壞人沒有理由。有智慧的人沒有苦難。不熟練的人沒有知識。邪惡的人沒有正確的思想。義人沒有惡意。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 20,
+        "quote": "Give in a little when faced with status and wealth; feel how calm and carefree you can be. Endure a little when faced with discord; feel how leisurely and contented you can be.",
+        "chinese": "面对地位和财富时要付出一点；感觉自己会变得多么平静和无忧无虑。面对不和谐时要忍受一点；感觉自己会变得多么悠闲和满足。",
+        "traditional": "面對地位和財富時要付出一點；感覺自己會變得多麼平靜和無憂無慮。面對不和諧時要忍受一點；感覺自己會變得多麼悠閒和滿足。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 21,
+        "quote": "A temple resembles a fuel station, providing energy for life. A temple resembles an art learning center, teaching the way of conducting life. A temple resembles a house of life and wisdom, fostering tge nutrients for mind and soul. A temple resembles an immigration office, providing passports to the Pure Land.",
+        "chinese": "寺庙像加油站，为生命提供能量。一座寺庙像一个艺术学习中心，教授如何进行生活。一座寺庙就像一座充满生命和智慧的房子，为心灵和灵魂培养大量营养。一座寺庙像一个移民局，向净土提供护照。",
+        "traditional": "寺廟像加油站，為生命提供能量。一座寺廟像一個藝術學習中心，教授如何進行生活。一座寺廟就像一座充滿生命和智慧的房子，為心靈和靈魂培養大量營養。一座寺廟像一個移民局，向淨土提供護照。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 22,
+        "quote": "See our original buddha nature from the Bhudda and sangha. Understand the boundless world from flowers and grass, sand and stones. Experience unlimited life from the futon and kneeling mat. Hold tight to eternal future from a serene night of a beautiful moon.",
+        "chinese": "从布达佛和僧伽僧伽看我们原始的佛性。从花草，沙子和石头中了解无限的世界。从蒲团和跪垫中体验无限的生活。在美丽的月亮的宁静夜晚，紧紧抓住永恒的未来。",
+        "traditional": "從布達佛和僧伽僧伽看我們原始的佛性。從花草，沙子和石頭中了解無限的世界。從蒲團和跪墊中體驗無限的生活。在美麗的月亮的寧靜夜晚，緊緊抓住永恆的未來。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 23,
+        "quote": "Do things wholeheartedly with motivation, and much is achieved. Perform acts with compassion, and good affinities assist your destiny.",
+        "chinese": "全心全意地做事，成就很大。充满同情心地行事，和好可亲有助于您的命运。",
+        "traditional": "全心全意地做事，成就很大。充滿同情心地行事，和好可親有助於您的命運。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 24,
+        "quote": "Observe the five skandhas carefully and realise their empty nature through wisdom. Decide for ourselves how the six roots of senses live through our life. Explore our own potential through confidence. Live harmoniously with everyone through compassion.",
+        "chinese": "仔细观察五个斯堪的纳维亚人，并通过智慧意识到他们的空性。自己决定感官的六个根源如何贯穿我们的生活。通过信心探索我们自己的潜力。通过同情与每个人和谐相处。",
+        "traditional": "仔細觀察五個斯坎塔，並通過智慧認識他們的空性。自己決定感官的六個根源如何貫穿我們的生活。通過信心探索我們自己的潛力。通過同情與每個人和諧相處。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 25,
+        "quote": "Learn to aquire knowledge of how to use our mind and spirit effectively, otherwise, there's no benifit no matter how much knowledge we gain. Pnder to comprehend the truth, otherwise, there's no benifit in continuous pondering.",
+        "chinese": "学会获取有关如何有效地使用我们的思想和精神的知识，否则，无论我们获得多少知识，都没有好处。努力理解真相，否则，不断思考就没有任何好处。",
+        "traditional": "學會獲取有關如何有效地使用我們的思想和精神的知識，否則，無論我們獲得多少知識，都沒有好處。努力理解真相，否則，不斷思考就沒有任何好處。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 26,
+        "quote": "Learn to curb self-generated distress and problems with Wisdom. Learn to relieve external hardships with Compassion.",
+        "chinese": "学习抑制智慧引起的自我困扰和问题。学习用同情心减轻外部的困难。",
+        "traditional": "學習抑制智慧引起的自我困擾和問題。學習用同情心減輕外部的困難。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 27,
+        "quote": "Do more good deeds to accrue virtuous merits. Create more good thoughts in order to accomplish right thoughts.",
+        "chinese": "多做一些好事，以积累功德。创造更多好的想法，以完成正确的想法。",
+        "traditional": "多做善事，積蓄德行。創造更多好的想法，以完成正確的想法。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 28,
+        "quote": "Sunrise and sunset give us rose-pink clouds, The changing month gives us a bright full moon. The sorrow of parting and joy of meeting let us cherish the time we are together. The suffering, emptiness and impermanence of the world manifest the truth.",
+        "chinese": "日出和日落给我们玫瑰粉红色的云，多变的月给我们明亮的满月。离别的悲伤和见面的快乐使我们珍惜我们在一起的时间。世界的苦难，空虚和无常证明了事实。",
+        "traditional": "日出和日落給我們帶來玫瑰粉色的雲朵，多變的月份給我們帶來明亮的滿月。離別的悲傷和見面的快樂使我們珍惜我們在一起的時間。世界的苦難，空虛和無常證明了事實。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 29,
+        "quote": "Do not boast of your abilities; do not criticize others' shortcomings. Do not publicize your contributions; do not belittle others' achievements.",
+        "chinese": "不要夸耀自己的能力；不要批评别人的缺点。不要公开您的贡献；不要贬低别人的成就。",
+        "traditional": "不要誇耀自己的能力；不要批評別人的缺點。不要公開您的貢獻；不要貶低別人的成就。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 30,
+        "quote": "One who can conquer greed and anger will obtain the peace and joy of the Dharma. One who can experience the wisdom of selflessness and emptiness will achieve the freedom of Nirvana.",
+        "chinese": "能够征服贪婪和愤怒的人将获得佛法的和平与喜悦。一个可以体验无私和空虚智慧的人将获得涅磐的自由。",
+        "traditional": "能夠征服貪婪和憤怒的人將獲得佛法的和平與喜悅。一個可以體驗無私和空虛智慧的人將獲得涅磐的自由。",
+        "type": "Cultivation"
+    },
+    {
+        "month": "Dec",
+        "day": 31,
+        "quote": "Showing consideration for others is the condition for being a human. Seeing others as Buddha is the basic quality of becoming Buddha.",
+        "chinese": "对他人的关怀是成为人的条件。将他人视为佛陀是成为佛陀的基本素质。",
+        "traditional": "對他人的關懷是成為人的條件。將他人視為佛陀是成為佛陀的基本素質。",
+        "type": "Cultivation"
+    }
+]
